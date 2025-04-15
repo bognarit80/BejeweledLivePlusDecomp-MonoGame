@@ -1,0 +1,1146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="IDS_40" xml:space="preserve"><value>Scored {0} points in Diamond Mine
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_41" xml:space="preserve"><value>For collecting {0} artifacts in Diamond Mine</value></data>
+  <data name="IDS_42" xml:space="preserve"><value>Collect {0} artifacts in Diamond Mine to earn a {1} achievement</value></data>
+  <data name="IDS_43" xml:space="preserve"><value>Collected {0} artifacts in Diamond Mine
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_44" xml:space="preserve"><value>For scoring {0} points in Butterflies</value></data>
+  <data name="IDS_45" xml:space="preserve"><value>Score {0} points in Butterflies to earn a {1} achievement</value></data>
+  <data name="IDS_46" xml:space="preserve"><value>Scored {0} points in Butterflies
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_47" xml:space="preserve"><value>For collecting {0} butterflies in one move</value></data>
+  <data name="IDS_48" xml:space="preserve"><value>Collect {0} butterflies in one move to earn a {1} achievement</value></data>
+  <data name="IDS_49" xml:space="preserve"><value>Collected {0} butterflies in one move
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_60" xml:space="preserve"><value>Line up 6 Gems in a row to earn the achievement</value></data>
+  <data name="IDS_61" xml:space="preserve"><value>Created a Supernova Gem</value></data>
+  <data name="IDS_66" xml:space="preserve"><value>For getting the high score in all secret games</value></data>
+  <data name="IDS_67" xml:space="preserve"><value>Get the high score in all secret games to earn the achievement</value></data>
+  <data name="IDS_68" xml:space="preserve"><value>Got the highest score in all secret games</value></data>
+  <data name="IDS_69" xml:space="preserve"><value>CLOSE</value></data>
+  <data name="IDS_51" xml:space="preserve"><value>Complete Quest Mode to earn the achievement</value></data>
+  <data name="IDS_50" xml:space="preserve"><value>For completing Quest Mode</value></data>
+  <data name="IDS_53" xml:space="preserve"><value>For matching two Hypercubes together</value></data>
+  <data name="IDS_52" xml:space="preserve"><value>Completed Quest Mode</value></data>
+  <data name="IDS_55" xml:space="preserve"><value>Matched two Hypercubes together</value></data>
+  <data name="IDS_54" xml:space="preserve"><value>Match two Hypercubes together to earn the achievement</value></data>
+  <data name="IDS_57" xml:space="preserve"><value>Reach level {0} in Classic Mode to earn the achievement</value></data>
+  <data name="IDS_56" xml:space="preserve"><value>For reaching level {0} in Classic Mode</value></data>
+  <data name="IDS_59" xml:space="preserve"><value>For creating a Supernova Gem</value></data>
+  <data name="IDS_58" xml:space="preserve"><value>Reached level {0} in Classic Mode</value></data>
+  <data name="IDS_73" xml:space="preserve"><value>QUIT</value></data>
+  <data name="IDS_72" xml:space="preserve"><value>You have earned the</value></data>
+  <data name="IDS_71" xml:space="preserve"><value>{0}^FFFFFF^ "{1}" achievement</value></data>
+  <data name="IDS_70" xml:space="preserve"><value>ACHIEVEMENT</value></data>
+  <data name="IDS_75" xml:space="preserve"><value>Resume?</value></data>
+  <data name="IDS_74" xml:space="preserve"><value>Do you want to quit Bejeweled 3?</value></data>
+  <data name="IDS_26" xml:space="preserve"><value>For getting {0} Flushes in Poker</value></data>
+  <data name="IDS_27" xml:space="preserve"><value>Get {0} Flushes in Poker to earn a {1} achievement</value></data>
+  <data name="IDS_24" xml:space="preserve"><value>Score {0} points in Lightning Mode to earn a {1} achievement</value></data>
+  <data name="IDS_25" xml:space="preserve"><value>Scored {0} points in Lightning Mode
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_22" xml:space="preserve"><value>Scored over {0} points during a Last Hurrah in Lightning Mode
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_23" xml:space="preserve"><value>For scoring {0} points in Lightning Mode</value></data>
+  <data name="IDS_20" xml:space="preserve"><value>For scoring over {0} points during a Last Hurrah in Lightning Mode</value></data>
+  <data name="IDS_21" xml:space="preserve"><value>Score over {0} points during a Last Hurrah in Lightning Mode to earn a {1} achievement</value></data>
+  <data name="IDS_28" xml:space="preserve"><value>Got {0} Flushes in Poker
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_29" xml:space="preserve"><value>For scoring {0} points in Poker</value></data>
+  <data name="IDS_15" xml:space="preserve"><value>Destroy {0} Gems in a single move to earn a {1} achievement</value></data>
+  <data name="IDS_14" xml:space="preserve"><value>For destroying {0} Gems in a single move</value></data>
+  <data name="IDS_17" xml:space="preserve"><value>For scoring over {0} points in a Classic game</value></data>
+  <data name="IDS_16" xml:space="preserve"><value>Destroyed {0} Gems in a single move
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_11" xml:space="preserve"><value>For clearing {0} Hypercubes</value></data>
+  <data name="IDS_10" xml:space="preserve"><value>Cleared {0} Star Gems
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_13" xml:space="preserve"><value>Cleared {0} Hypercubes
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_12" xml:space="preserve"><value>Clear {0} Hypercubes to earn a {1} achievement</value></data>
+  <data name="IDS_19" xml:space="preserve"><value>Finished a Classic game with a score over {0}
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_18" xml:space="preserve"><value>Finish a Classic game with a score over {0} to earn a {1} achievement</value></data>
+  <data name="IDS_37" xml:space="preserve"><value>Got a x{0} Column Combo in Ice Storm 
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_36" xml:space="preserve"><value>Get a x{0} Column Combo in Ice Storm to earn a {1} achievement</value></data>
+  <data name="IDS_35" xml:space="preserve"><value>For getting a x{0} Column Combo in Ice Storm</value></data>
+  <data name="IDS_34" xml:space="preserve"><value>Scored {0} points in Ice Storm
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_33" xml:space="preserve"><value>Score {0} points in Ice Storm to earn a {1} achievement</value></data>
+  <data name="IDS_32" xml:space="preserve"><value>For scoring {0} points in Ice Storm</value></data>
+  <data name="IDS_31" xml:space="preserve"><value>Scored {0} points in Poker
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_30" xml:space="preserve"><value>Score {0} points in Poker to earn a {1} achievement</value></data>
+  <data name="IDS_39" xml:space="preserve"><value>Score {0} points in Diamond Mine to earn a {1} achievement</value></data>
+  <data name="IDS_38" xml:space="preserve"><value>For scoring {0} points in Diamond Mine</value></data>
+  <data name="IDS_84" xml:space="preserve"><value>You must enter your name!</value></data>
+  <data name="IDS_85" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_86" xml:space="preserve"><value>DELETE USER?</value></data>
+  <data name="IDS_87" xml:space="preserve"><value>Are you sure you want to delete user
+'{0}'</value></data>
+  <data name="IDS_83" xml:space="preserve"><value>ENTER NAME</value></data>
+  <data name="IDS_98" xml:space="preserve"><value>STAR GEM</value></data>
+  <data name="IDS_95" xml:space="preserve"><value>GAME OVER</value></data>
+  <data name="IDS_94" xml:space="preserve"><value>TIME UP</value></data>
+  <data name="IDS_96" xml:space="preserve"><value>FLAME GEM</value></data>
+  <data name="IDS_411" xml:space="preserve"><value>Flush</value></data>
+  <data name="IDS_410" xml:space="preserve"><value>4 of a Kind</value></data>
+  <data name="IDS_413" xml:space="preserve"><value>SAME NAME</value></data>
+  <data name="IDS_412" xml:space="preserve"><value>There is already a user named {0}</value></data>
+  <data name="IDS_415" xml:space="preserve"><value>
+^FFD0FF^- more -</value></data>
+  <data name="IDS_414" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_417" xml:space="preserve"><value>QUEST
+COMPLETED</value></data>
+  <data name="IDS_416" xml:space="preserve"><value>
+^FF80FF^- more -</value></data>
+  <data name="IDS_419" xml:space="preserve"><value>{0}:{1:d02}</value></data>
+  <data name="IDS_418" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_400" xml:space="preserve"><value>
+
+^FF5555^Avoid this hand, or try your luck against the Skull Coin!</value></data>
+  <data name="IDS_401" xml:space="preserve"><value>Best Hand</value></data>
+  <data name="IDS_402" xml:space="preserve"><value>Number of Hands</value></data>
+  <data name="IDS_403" xml:space="preserve"><value>Skulls Busted</value></data>
+  <data name="IDS_404" xml:space="preserve"><value>Skull Coin Flips</value></data>
+  <data name="IDS_405" xml:space="preserve"><value>Pair</value></data>
+  <data name="IDS_406" xml:space="preserve"><value>Spectrum</value></data>
+  <data name="IDS_407" xml:space="preserve"><value>Two Pair</value></data>
+  <data name="IDS_408" xml:space="preserve"><value>3 of a Kind</value></data>
+  <data name="IDS_409" xml:space="preserve"><value>Full House</value></data>
+  <data name="IDS_431" xml:space="preserve"><value>You have been promoted to:</value></data>
+  <data name="IDS_437" xml:space="preserve"><value>Butterflies</value></data>
+  <data name="IDS_436" xml:space="preserve"><value>Poker</value></data>
+  <data name="IDS_435" xml:space="preserve"><value>Lightning</value></data>
+  <data name="IDS_434" xml:space="preserve"><value>Classic</value></data>
+  <data name="IDS_439" xml:space="preserve"><value>Diamond Mine</value></data>
+  <data name="IDS_438" xml:space="preserve"><value>Ice Storm</value></data>
+  <data name="IDS_422" xml:space="preserve"><value>QUESTS REMAINING</value></data>
+  <data name="IDS_423" xml:space="preserve"><value>There are still {0} quests to complete!</value></data>
+  <data name="IDS_420" xml:space="preserve"><value>New Relic Unlocked!</value></data>
+  <data name="IDS_421" xml:space="preserve"><value>QUEST MODE
+COMPLETE</value></data>
+  <data name="IDS_426" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_427" xml:space="preserve"><value>Rank: {0}</value></data>
+  <data name="IDS_424" xml:space="preserve"><value>There is still {0} quest to complete!</value></data>
+  <data name="IDS_425" xml:space="preserve"><value>Complete quests to restore the
+Lost Relics of Bejeweled</value></data>
+  <data name="IDS_429" xml:space="preserve"><value>RANK UP</value></data>
+  <data name="IDS_455" xml:space="preserve"><value>^FF0000^Red</value></data>
+  <data name="IDS_454" xml:space="preserve"><value>N/A</value></data>
+  <data name="IDS_457" xml:space="preserve"><value>^00FF00^Green</value></data>
+  <data name="IDS_456" xml:space="preserve"><value>^FFFFFF^White</value></data>
+  <data name="IDS_451" xml:space="preserve"><value>Star Gems:
+</value></data>
+  <data name="IDS_450" xml:space="preserve"><value>Flame Gems:
+</value></data>
+  <data name="IDS_453" xml:space="preserve"><value>Favorite Gem Color:</value></data>
+  <data name="IDS_452" xml:space="preserve"><value>Hypercubes:
+</value></data>
+  <data name="IDS_459" xml:space="preserve"><value>^FF00FF^Purple</value></data>
+  <data name="IDS_458" xml:space="preserve"><value>^FFFF00^Yellow</value></data>
+  <data name="IDS_444" xml:space="preserve"><value>ICE STORM</value></data>
+  <data name="IDS_445" xml:space="preserve"><value>DIAMOND MINE</value></data>
+  <data name="IDS_446" xml:space="preserve"><value>Player</value></data>
+  <data name="IDS_447" xml:space="preserve"><value>Points</value></data>
+  <data name="IDS_440" xml:space="preserve"><value>CLASSIC</value></data>
+  <data name="IDS_441" xml:space="preserve"><value>LIGHTNING</value></data>
+  <data name="IDS_442" xml:space="preserve"><value>POKER</value></data>
+  <data name="IDS_443" xml:space="preserve"><value>BUTTERFLIES</value></data>
+  <data name="IDS_448" xml:space="preserve"><value>{0}.</value></data>
+  <data name="IDS_449" xml:space="preserve"><value>Gems Matched:
+</value></data>
+  <data name="IDS_477" xml:space="preserve"><value>SECRET GAMES</value></data>
+  <data name="IDS_476" xml:space="preserve"><value>Back</value></data>
+  <data name="IDS_475" xml:space="preserve"><value>Collect 30 red gems before time runs out! Clear yellow gems to gain more time.</value></data>
+  <data name="IDS_474" xml:space="preserve"><value>Stats</value></data>
+  <data name="IDS_473" xml:space="preserve"><value>Achienments</value></data>
+  <data name="IDS_472" xml:space="preserve"><value>High Scores</value></data>
+  <data name="IDS_471" xml:space="preserve"><value> pts
+</value></data>
+  <data name="IDS_479" xml:space="preserve"><value>+{0} sec</value></data>
+  <data name="IDS_478" xml:space="preserve"><value>TIME UP</value></data>
+  <data name="IDS_466" xml:space="preserve"><value>Total Time Played:</value></data>
+  <data name="IDS_464" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_465" xml:space="preserve"><value>All-Time Best Move:
+</value></data>
+  <data name="IDS_462" xml:space="preserve"><value>Zen Mode High Score:
+</value></data>
+  <data name="IDS_463" xml:space="preserve"><value>Quest Mode Completion:
+</value></data>
+  <data name="IDS_460" xml:space="preserve"><value>^FF9900^Orange</value></data>
+  <data name="IDS_461" xml:space="preserve"><value>^0099FF^Blue</value></data>
+  <data name="IDS_499" xml:space="preserve"><value>+{0} SECOND BONUS</value></data>
+  <data name="IDS_498" xml:space="preserve"><value>x{0}</value></data>
+  <data name="IDS_491" xml:space="preserve"><value>HYPER x{0}</value></data>
+  <data name="IDS_490" xml:space="preserve"><value>STAR x{0}</value></data>
+  <data name="IDS_493" xml:space="preserve"><value>SPEED</value></data>
+  <data name="IDS_492" xml:space="preserve"><value>TIME +{0}:{1:d02}</value></data>
+  <data name="IDS_495" xml:space="preserve"><value>MATCHES</value></data>
+  <data name="IDS_494" xml:space="preserve"><value>SPECIAL</value></data>
+  <data name="IDS_497" xml:space="preserve"><value>Last</value></data>
+  <data name="IDS_496" xml:space="preserve"><value>{0}k</value></data>
+  <data name="IDS_488" xml:space="preserve"><value>{0}:{1:d02}</value></data>
+  <data name="IDS_489" xml:space="preserve"><value>FLAME x{0}</value></data>
+  <data name="IDS_480" xml:space="preserve"><value>TIME UP</value></data>
+  <data name="IDS_481" xml:space="preserve"><value>+{0}:{1:d02}</value></data>
+  <data name="IDS_482" xml:space="preserve"><value>Last Hurrah</value></data>
+  <data name="IDS_483" xml:space="preserve"><value>Highest Multiplier</value></data>
+  <data name="IDS_484" xml:space="preserve"><value>Best Move</value></data>
+  <data name="IDS_485" xml:space="preserve"><value>Longest Cascade</value></data>
+  <data name="IDS_486" xml:space="preserve"><value>Total Time</value></data>
+  <data name="IDS_487" xml:space="preserve"><value>x{0}</value></data>
+  <data name="IDS_511" xml:space="preserve"><value>Enter your name.</value></data>
+  <data name="IDS_512" xml:space="preserve"><value>MAX SCORE</value></data>
+  <data name="IDS_513" xml:space="preserve"><value>Zen Options</value></data>
+  <data name="IDS_514" xml:space="preserve"><value>Customize your Zen experience here!</value></data>
+  <data name="IDS_515" xml:space="preserve"><value>Enable</value></data>
+  <data name="IDS_516" xml:space="preserve"><value>Visual Indicator</value></data>
+  <data name="IDS_517" xml:space="preserve"><value>Speed</value></data>
+  <data name="IDS_518" xml:space="preserve"><value>Volume</value></data>
+  <data name="IDS_519" xml:space="preserve"><value>Sound</value></data>
+  <data name="IDS_532" xml:space="preserve"><value>Replace the game music with white noise or other environmental audio tracks for greater relaxation and focus.</value></data>
+  <data name="IDS_533" xml:space="preserve"><value>Various positive textual affirmations are displayed onscreen as you play, helping to focus your thoughts on beneficial areas for meditation.</value></data>
+  <data name="IDS_530" xml:space="preserve"><value>Binaural Beats</value></data>
+  <data name="IDS_531" xml:space="preserve"><value>Audio and visual feedback helps you modulate your breathing rate and assists in creating a sense of calm and relaxation.</value></data>
+  <data name="IDS_536" xml:space="preserve"><value> (Subliminal)</value></data>
+  <data name="IDS_534" xml:space="preserve"><value>Headphones required!
+Slightly different frequencies played in each ear can help your brain enter different states.</value></data>
+  <data name="IDS_535" xml:space="preserve"><value>Visual Indicator: ON</value></data>
+  <data name="IDS_538" xml:space="preserve"><value>Low volume recommended</value></data>
+  <data name="IDS_539" xml:space="preserve"><value>for</value></data>
+  <data name="IDS_501" xml:space="preserve"><value>New Mode Unlocked</value></data>
+  <data name="IDS_500" xml:space="preserve"><value>-{0} SECONDS PENALTY</value></data>
+  <data name="IDS_503" xml:space="preserve"><value>You Have Unlocked a New Mode:</value></data>
+  <data name="IDS_502" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_505" xml:space="preserve"><value>SELECT A USER</value></data>
+  <data name="IDS_504" xml:space="preserve"><value>Now available on the game menu.</value></data>
+  <data name="IDS_508" xml:space="preserve"><value>(Add A New User)</value></data>
+  <data name="IDS_554" xml:space="preserve"><value>POLAR </value></data>
+  <data name="IDS_555" xml:space="preserve"><value>ARCTIC </value></data>
+  <data name="IDS_556" xml:space="preserve"><value>SUB ZERO </value></data>
+  <data name="IDS_557" xml:space="preserve"><value>ICE ICE </value></data>
+  <data name="IDS_550" xml:space="preserve"><value>CHILL </value></data>
+  <data name="IDS_551" xml:space="preserve"><value>FROSTY </value></data>
+  <data name="IDS_552" xml:space="preserve"><value>ICY </value></data>
+  <data name="IDS_553" xml:space="preserve"><value>GLACIAL </value></data>
+  <data name="IDS_558" xml:space="preserve"><value>MAX </value></data>
+  <data name="IDS_559" xml:space="preserve"><value>{0}COMBO</value></data>
+  <data name="IDS_523" xml:space="preserve"><value>Visibility</value></data>
+  <data name="IDS_522" xml:space="preserve"><value>Mantra</value></data>
+  <data name="IDS_521" xml:space="preserve"><value>Subliminal</value></data>
+  <data name="IDS_520" xml:space="preserve"><value>Volume</value></data>
+  <data name="IDS_527" xml:space="preserve"><value>Breath Modulation</value></data>
+  <data name="IDS_526" xml:space="preserve"><value>Volume</value></data>
+  <data name="IDS_525" xml:space="preserve"><value>Pattern</value></data>
+  <data name="IDS_524" xml:space="preserve"><value>Speed</value></data>
+  <data name="IDS_529" xml:space="preserve"><value>Mantras</value></data>
+  <data name="IDS_528" xml:space="preserve"><value>Ambient Sounds</value></data>
+  <data name="IDS_576" xml:space="preserve"><value>for</value></data>
+  <data name="IDS_577" xml:space="preserve"><value>Random</value></data>
+  <data name="IDS_574" xml:space="preserve"><value>{0:f0.1} hours</value></data>
+  <data name="IDS_572" xml:space="preserve"><value>{0} second</value></data>
+  <data name="IDS_573" xml:space="preserve"><value>{0} minute</value></data>
+  <data name="IDS_570" xml:space="preserve"><value>Quest Orb</value></data>
+  <data name="IDS_571" xml:space="preserve"><value>Fill in all four Quest Orbs to reveal the Relic.</value></data>
+  <data name="IDS_578" xml:space="preserve"><value>Random</value></data>
+  <data name="IDS_579" xml:space="preserve"><value>Click here</value></data>
+  <data name="IDS_544" xml:space="preserve"><value>ALL CLEAR</value></data>
+  <data name="IDS_541" xml:space="preserve"><value>LEVEL {0}</value></data>
+  <data name="IDS_540" xml:space="preserve"><value>important safety information</value></data>
+  <data name="IDS_542" xml:space="preserve"><value>CLEARED!</value></data>
+  <data name="IDS_549" xml:space="preserve"><value>COOL </value></data>
+  <data name="IDS_590" xml:space="preserve"><value>Two Pair</value></data>
+  <data name="IDS_591" xml:space="preserve"><value>3 of a Kind</value></data>
+  <data name="IDS_592" xml:space="preserve"><value>Full House</value></data>
+  <data name="IDS_593" xml:space="preserve"><value>4 of a Kind</value></data>
+  <data name="IDS_594" xml:space="preserve"><value>Flush</value></data>
+  <data name="IDS_595" xml:space="preserve"><value>{0} seconds</value></data>
+  <data name="IDS_596" xml:space="preserve"><value>{0} minutes</value></data>
+  <data name="IDS_597" xml:space="preserve"><value>SKULL</value></data>
+  <data name="IDS_566" xml:space="preserve"><value>New to Bejeweled? Try Classic mode</value></data>
+  <data name="IDS_561" xml:space="preserve"><value>MULTIPLIER {0}x</value></data>
+  <data name="IDS_560" xml:space="preserve"><value>{0}x</value></data>
+  <data name="IDS_568" xml:space="preserve"><value>SKULL ELIMINATOR</value></data>
+  <data name="IDS_589" xml:space="preserve"><value>Spectrum</value></data>
+  <data name="IDS_588" xml:space="preserve"><value>Pair</value></data>
+  <data name="IDS_581" xml:space="preserve"><value>Certain people may experience mood changes, dizziness, muscle twitches, hallucinations, drowsiness, inattention and other health effects when listening to binaural beats with headphones.
+
+If you experience any of these symptoms while playing this mode, IMMEDIATELY remove the headphones, discontinue use and consult your doctor.</value></data>
+  <data name="IDS_580" xml:space="preserve"><value>SAFETY INFORMATION</value></data>
+  <data name="IDS_583" xml:space="preserve"><value>ENABLE</value></data>
+  <data name="IDS_582" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_585" xml:space="preserve"><value>Butterflies</value></data>
+  <data name="IDS_584" xml:space="preserve"><value>Poker</value></data>
+  <data name="IDS_587" xml:space="preserve"><value>Diamond Mine</value></data>
+  <data name="IDS_586" xml:space="preserve"><value>Ice Storm</value></data>
+  <data name="IDS_271" xml:space="preserve"><value>Highest Multiplier</value></data>
+  <data name="IDS_273" xml:space="preserve"><value>Columns Crushed</value></data>
+  <data name="IDS_272" xml:space="preserve"><value>Best Column Combo</value></data>
+  <data name="IDS_275" xml:space="preserve"><value>x{0}</value></data>
+  <data name="IDS_274" xml:space="preserve"><value>Total Time</value></data>
+  <data name="IDS_277" xml:space="preserve"><value>FLAME x{0}</value></data>
+  <data name="IDS_276" xml:space="preserve"><value>{0}:{1:d02}</value></data>
+  <data name="IDS_279" xml:space="preserve"><value>HYPER x{0}</value></data>
+  <data name="IDS_278" xml:space="preserve"><value>STAR x{0}</value></data>
+  <data name="IDS_260" xml:space="preserve"><value>Clear all ground tiles down to the white line to advance.</value></data>
+  <data name="IDS_261" xml:space="preserve"><value>Make matches next to gold, gems and artifacts to earn points.</value></data>
+  <data name="IDS_263" xml:space="preserve"><value>Failed to read high score file!
+Please contact Customer Suppport at http://www.popcap.com/support.</value></data>
+  <data name="IDS_264" xml:space="preserve"><value>Failed to create high score file!
+
+{0}
+
+Please contact Customer Support at http://www.popcap.com/support.</value></data>
+  <data name="IDS_266" xml:space="preserve"><value>REPLAY</value></data>
+  <data name="IDS_253" xml:space="preserve"><value>When Skulls appear, try to avoid the hands that they occupy.</value></data>
+  <data name="IDS_252" xml:space="preserve"><value>Make poker hands with gem matches.</value></data>
+  <data name="IDS_251" xml:space="preserve"><value>Don't let any of the butterflies reach the spider!</value></data>
+  <data name="IDS_250" xml:space="preserve"><value>Match butterfly gems with like colored gems to release them.</value></data>
+  <data name="IDS_257" xml:space="preserve"><value>Make vertical matches to smash ice columns and earn mega bonus points.</value></data>
+  <data name="IDS_256" xml:space="preserve"><value>Make matches to push down the rising ice columns.</value></data>
+  <data name="IDS_255" xml:space="preserve"><value>Score as many points as you can before the ice reaches the top!</value></data>
+  <data name="IDS_254" xml:space="preserve"><value>Remove Skulls by filling the Eliminator bar.  Better hands fill it faster.</value></data>
+  <data name="IDS_259" xml:space="preserve"><value>Make matches directly next to ground to dig down.</value></data>
+  <data name="IDS_258" xml:space="preserve"><value>Clearing ice fills the blue meter and increases your score multiplier.</value></data>
+  <data name="IDS_243" xml:space="preserve"><value>Score as many points as possible until there are no more moves.</value></data>
+  <data name="IDS_246" xml:space="preserve"><value>Make an L or T match to create a Star Gem!</value></data>
+  <data name="IDS_247" xml:space="preserve"><value>Match Time Gems to earn extra time.</value></data>
+  <data name="IDS_244" xml:space="preserve"><value>Swap adjacent gems to make rows of three.</value></data>
+  <data name="IDS_245" xml:space="preserve"><value>Match 4 or more gems to create Special Gems.</value></data>
+  <data name="IDS_248" xml:space="preserve"><value>Extra time is added to your next round, where point values increase!</value></data>
+  <data name="IDS_249" xml:space="preserve"><value>Make matches quickly for a Speed Bonus. Max it out for Blazing Speed!</value></data>
+  <data name="IDS_235" xml:space="preserve"><value>Statistics</value></data>
+  <data name="IDS_234" xml:space="preserve"><value>Top Scores:</value></data>
+  <data name="IDS_236" xml:space="preserve"><value>Final Score:</value></data>
+  <data name="IDS_231" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_230" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_233" xml:space="preserve"><value>{0}.</value></data>
+  <data name="IDS_232" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_220" xml:space="preserve"><value>Treasure Excavated:</value></data>
+  <data name="IDS_221" xml:space="preserve"><value>${0}</value></data>
+  <data name="IDS_222" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_223" xml:space="preserve"><value>${0}</value></data>
+  <data name="IDS_217" xml:space="preserve"><value>Artifacts Collected</value></data>
+  <data name="IDS_216" xml:space="preserve"><value>Diamonds Collected</value></data>
+  <data name="IDS_215" xml:space="preserve"><value>Gold Collected</value></data>
+  <data name="IDS_214" xml:space="preserve"><value>Treasure Found:</value></data>
+  <data name="IDS_213" xml:space="preserve"><value>({0})</value></data>
+  <data name="IDS_212" xml:space="preserve"><value>${0}</value></data>
+  <data name="IDS_211" xml:space="preserve"><value>No Treasures</value></data>
+  <data name="IDS_210" xml:space="preserve"><value>${0}</value></data>
+  <data name="IDS_219" xml:space="preserve"><value>${0}</value></data>
+  <data name="IDS_218" xml:space="preserve"><value>${0}</value></data>
+  <data name="IDS_206" xml:space="preserve"><value>Best Move</value></data>
+  <data name="IDS_207" xml:space="preserve"><value>Best Treasure</value></data>
+  <data name="IDS_204" xml:space="preserve"><value>Max Depth</value></data>
+  <data name="IDS_205" xml:space="preserve"><value>Total Time</value></data>
+  <data name="IDS_202" xml:space="preserve"><value>BOULDER</value></data>
+  <data name="IDS_203" xml:space="preserve"><value>Match Multiple Gems adjacent to this block to break it up.</value></data>
+  <data name="IDS_200" xml:space="preserve"><value>BOULDER</value></data>
+  <data name="IDS_201" xml:space="preserve"><value>Match 4 Gems adjacent to this block to break it up.</value></data>
+  <data name="IDS_208" xml:space="preserve"><value>{0} m</value></data>
+  <data name="IDS_209" xml:space="preserve"><value>{0}:{1:d02}</value></data>
+  <data name="IDS_299" xml:space="preserve"><value>Quit</value></data>
+  <data name="IDS_298" xml:space="preserve"><value>Secret Modes</value></data>
+  <data name="IDS_297" xml:space="preserve"><value>Play Quests</value></data>
+  <data name="IDS_296" xml:space="preserve"><value>Play Zen</value></data>
+  <data name="IDS_295" xml:space="preserve"><value>Tug of War</value></data>
+  <data name="IDS_294" xml:space="preserve"><value>Time Bonus</value></data>
+  <data name="IDS_293" xml:space="preserve"><value>Play Classic</value></data>
+  <data name="IDS_284" xml:space="preserve"><value>x{0}</value></data>
+  <data name="IDS_282" xml:space="preserve"><value>BASE</value></data>
+  <data name="IDS_283" xml:space="preserve"><value>{0}k</value></data>
+  <data name="IDS_280" xml:space="preserve"><value>COLUMN COMBO</value></data>
+  <data name="IDS_281" xml:space="preserve"><value>COLUMN CLEAR</value></data>
+  <data name="IDS_151" xml:space="preserve"><value>{0}:{1:d02}</value></data>
+  <data name="IDS_157" xml:space="preserve"><value>{0} of {1}</value></data>
+  <data name="IDS_158" xml:space="preserve"><value>x{0} COMBO</value></data>
+  <data name="IDS_159" xml:space="preserve"><value>Butterflies Freed</value></data>
+  <data name="IDS_170" xml:space="preserve"><value>+{0} SECOND MEGA BONUS</value></data>
+  <data name="IDS_171" xml:space="preserve"><value>+{0} SECOND BONUS</value></data>
+  <data name="IDS_141" xml:space="preserve"><value>GO!</value></data>
+  <data name="IDS_140" xml:space="preserve"><value>GET READY</value></data>
+  <data name="IDS_143" xml:space="preserve"><value>CASCADES</value></data>
+  <data name="IDS_142" xml:space="preserve"><value>GEMS</value></data>
+  <data name="IDS_145" xml:space="preserve"><value>x{0}</value></data>
+  <data name="IDS_144" xml:space="preserve"><value>x{0}</value></data>
+  <data name="IDS_147" xml:space="preserve"><value>PAUSED</value></data>
+  <data name="IDS_146" xml:space="preserve"><value>x{0}</value></data>
+  <data name="IDS_148" xml:space="preserve"><value>{0}:{1:d02}</value></data>
+  <data name="IDS_114" xml:space="preserve"><value>Illegal Move</value></data>
+  <data name="IDS_115" xml:space="preserve"><value>Each swap must create a row of three or more identical gems.</value></data>
+  <data name="IDS_116" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_117" xml:space="preserve"><value>SUPERNOVA GEM</value></data>
+  <data name="IDS_110" xml:space="preserve"><value>VERTICAL MATCH</value></data>
+  <data name="IDS_112" xml:space="preserve"><value>DARK ROCK</value></data>
+  <data name="IDS_118" xml:space="preserve"><value>Created by matching 6+ Gems in a row, this powerful Gem explodes with the force of a million suns when matched.</value></data>
+  <data name="IDS_119" xml:space="preserve"><value>FLAME GEM</value></data>
+  <data name="IDS_163" xml:space="preserve"><value>{0}:{1:d02}</value></data>
+  <data name="IDS_162" xml:space="preserve"><value>Total Time</value></data>
+  <data name="IDS_161" xml:space="preserve"><value>Best Butterfly Combo</value></data>
+  <data name="IDS_160" xml:space="preserve"><value>Best Move</value></data>
+  <data name="IDS_167" xml:space="preserve"><value>Longest Cascade</value></data>
+  <data name="IDS_166" xml:space="preserve"><value>Best Move</value></data>
+  <data name="IDS_165" xml:space="preserve"><value>Level Achieved</value></data>
+  <data name="IDS_164" xml:space="preserve"><value>NO MORE
+MOVES</value></data>
+  <data name="IDS_169" xml:space="preserve"><value>{0}:{1:d02}</value></data>
+  <data name="IDS_168" xml:space="preserve"><value>Total Time</value></data>
+  <data name="IDS_136" xml:space="preserve"><value>Match this Gem to add {0} seconds to the clock!</value></data>
+  <data name="IDS_137" xml:space="preserve"><value>TIME BOMB</value></data>
+  <data name="IDS_134" xml:space="preserve"><value>Match butterflies with like-colored Gems to free them.</value></data>
+  <data name="IDS_135" xml:space="preserve"><value>TIME GEM</value></data>
+  <data name="IDS_132" xml:space="preserve"><value>Clear this Gem to collect the coin inside! Save money to buy Boosts!</value></data>
+  <data name="IDS_133" xml:space="preserve"><value>BUTTERFLIES</value></data>
+  <data name="IDS_130" xml:space="preserve"><value>Click to scramble all Gems on the board.</value></data>
+  <data name="IDS_131" xml:space="preserve"><value>COIN</value></data>
+  <data name="IDS_138" xml:space="preserve"><value>Match this Gem before the counter reaches zero!</value></data>
+  <data name="IDS_139" xml:space="preserve"><value>LEVEL
+COMPLETE</value></data>
+  <data name="IDS_104" xml:space="preserve"><value>MULTIPLIER GEM</value></data>
+  <data name="IDS_106" xml:space="preserve"><value>COIN</value></data>
+  <data name="IDS_100" xml:space="preserve"><value>HYPERCUBE</value></data>
+  <data name="IDS_102" xml:space="preserve"><value>SUPERNOVA GEM</value></data>
+  <data name="IDS_108" xml:space="preserve"><value>TIME BONUS</value></data>
+  <data name="IDS_127" xml:space="preserve"><value>DETONATOR</value></data>
+  <data name="IDS_126" xml:space="preserve"><value>Randomly drops onto your board. Match it to increase your score multiplier by 1!</value></data>
+  <data name="IDS_125" xml:space="preserve"><value>MULTIPLIER GEM</value></data>
+  <data name="IDS_124" xml:space="preserve"><value>Created by matching 5 Gems in a line. Swap it with a Gem to zap all Gems of the same color onscreen.</value></data>
+  <data name="IDS_123" xml:space="preserve"><value>HYPERCUBE</value></data>
+  <data name="IDS_122" xml:space="preserve"><value>Created by making two intersecting matches. Match it to fire lightning 4 ways!</value></data>
+  <data name="IDS_121" xml:space="preserve"><value>STAR GEM</value></data>
+  <data name="IDS_120" xml:space="preserve"><value>Created by forming 4 Gems of the same color in a line. Explodes when matched!</value></data>
+  <data name="IDS_129" xml:space="preserve"><value>SCRAMBLER</value></data>
+  <data name="IDS_128" xml:space="preserve"><value>Click to detonate all Special Gems on the board.</value></data>
+  <data name="IDS_198" xml:space="preserve"><value>DARK ROCK</value></data>
+  <data name="IDS_199" xml:space="preserve"><value>This block can be destroyed only by blasting it with Special Gems.</value></data>
+  <data name="IDS_194" xml:space="preserve"><value>ROCKS</value></data>
+  <data name="IDS_195" xml:space="preserve"><value>Match 2 Gems adjacent to this block to break it up.</value></data>
+  <data name="IDS_196" xml:space="preserve"><value>STONES</value></data>
+  <data name="IDS_197" xml:space="preserve"><value>Match 3 Gems adjacent to this block to break it up.</value></data>
+  <data name="IDS_190" xml:space="preserve"><value>HYPERCUBE</value></data>
+  <data name="IDS_191" xml:space="preserve"><value>Uncover this buried Hypercube in order to use it.</value></data>
+  <data name="IDS_192" xml:space="preserve"><value>DIRT</value></data>
+  <data name="IDS_193" xml:space="preserve"><value>Match a Gem adjacent to this block to break it up.</value></data>
+  <data name="IDS_189" xml:space="preserve"><value>Dig up diamonds to score points.</value></data>
+  <data name="IDS_188" xml:space="preserve"><value>DIAMONDS</value></data>
+  <data name="IDS_185" xml:space="preserve"><value>Uncover this object for bonus points.</value></data>
+  <data name="IDS_184" xml:space="preserve"><value>ARTIFACT</value></data>
+  <data name="IDS_187" xml:space="preserve"><value>Dig up gold to score points.</value></data>
+  <data name="IDS_186" xml:space="preserve"><value>GOLD</value></data>
+  <data name="IDS_370" xml:space="preserve"><value>Reach level {0} of ^{1}^Classic Mode^oldclr^ to unlock</value></data>
+  <data name="IDS_371" xml:space="preserve"><value>Collect colorful jeweled butterflies</value></data>
+  <data name="IDS_372" xml:space="preserve"><value>Reach level {0} of ^{1}^Zen Mode^oldclr^ to unlock</value></data>
+  <data name="IDS_373" xml:space="preserve"><value>Hold back the rising ice columns</value></data>
+  <data name="IDS_374" xml:space="preserve"><value>Score {0} points in ^{1}^Lightning Mode^oldclr^ to unlock</value></data>
+  <data name="IDS_375" xml:space="preserve"><value>Dig deep to unearth buried treasure</value></data>
+  <data name="IDS_376" xml:space="preserve"><value>Reveal the first Relic in ^{0}^Quest Mode^oldclr^ to unlock</value></data>
+  <data name="IDS_377" xml:space="preserve"><value>Need {0} or better</value></data>
+  <data name="IDS_378" xml:space="preserve"><value>+{0}</value></data>
+  <data name="IDS_379" xml:space="preserve"><value>+{0}</value></data>
+  <data name="IDS_352" xml:space="preserve"><value>SECRET GAME</value></data>
+  <data name="IDS_365" xml:space="preserve"><value>Play the original untimed game</value></data>
+  <data name="IDS_367" xml:space="preserve"><value>Collect Time Gems to charge up bonus rounds</value></data>
+  <data name="IDS_366" xml:space="preserve"><value>Relax body and mind in this endless game</value></data>
+  <data name="IDS_369" xml:space="preserve"><value>Match gems and make your best hand</value></data>
+  <data name="IDS_368" xml:space="preserve"><value>Solve 40 different puzzling minigames</value></data>
+  <data name="IDS_306" xml:space="preserve"><value>Destroy 200 gems in 1 minute</value></data>
+  <data name="IDS_305" xml:space="preserve"><value>Enter your name:</value></data>
+  <data name="IDS_303" xml:space="preserve"><value>WELCOME!</value></data>
+  <data name="IDS_301" xml:space="preserve"><value>Moves Left: {0}</value></data>
+  <data name="IDS_300" xml:space="preserve"><value>Main Menu</value></data>
+  <data name="IDS_398" xml:space="preserve"><value>A hand containing four matching cards.</value></data>
+  <data name="IDS_399" xml:space="preserve"><value>A hand in which all five cards are the same.</value></data>
+  <data name="IDS_396" xml:space="preserve"><value>A hand containing three matching cards.</value></data>
+  <data name="IDS_397" xml:space="preserve"><value>A hand containing a set of two and a set of three matching cards.</value></data>
+  <data name="IDS_394" xml:space="preserve"><value>A hand consisting of no matching cards.</value></data>
+  <data name="IDS_395" xml:space="preserve"><value>A hand containing two pairs of matching cards.</value></data>
+  <data name="IDS_392" xml:space="preserve"><value>FLUSH</value></data>
+  <data name="IDS_393" xml:space="preserve"><value>A hand containing two matching cards.</value></data>
+  <data name="IDS_390" xml:space="preserve"><value>FULL HOUSE</value></data>
+  <data name="IDS_391" xml:space="preserve"><value>4 OF A KIND</value></data>
+  <data name="IDS_389" xml:space="preserve"><value>3 OF A KIND</value></data>
+  <data name="IDS_388" xml:space="preserve"><value>2 PAIR</value></data>
+  <data name="IDS_387" xml:space="preserve"><value>SPECTRUM</value></data>
+  <data name="IDS_386" xml:space="preserve"><value>PAIR</value></data>
+  <data name="IDS_385" xml:space="preserve"><value>No Score</value></data>
+  <data name="IDS_384" xml:space="preserve"><value>SAFE!</value></data>
+  <data name="IDS_5" xml:space="preserve"><value>For clearing {0} Flame Gems</value></data>
+  <data name="IDS_6" xml:space="preserve"><value>Clear {0} Flame Gems to earn a {1} achievement</value></data>
+  <data name="IDS_7" xml:space="preserve"><value>Cleared {0} Flame Gems
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_0" xml:space="preserve"><value>  ({0}/{1})</value></data>
+  <data name="IDS_8" xml:space="preserve"><value>For clearing {0} Star Gems</value></data>
+  <data name="IDS_9" xml:space="preserve"><value>Clear {0} Star Gems to earn a {1} achievement</value></data>
+  <data name="Legal" xml:space="preserve"><value>legal-en-us</value></data>
+  <data name="IDS_100000" xml:space="preserve"><value>,</value></data>
+  <data name="IDS_4000" xml:space="preserve"><value>WP7 Team</value></data>
+  <data name="IDS_4001" xml:space="preserve"><value>Executive Producer</value></data>
+  <data name="IDS_4002" xml:space="preserve"><value>D. Cicurel</value></data>
+  <data name="IDS_4003" xml:space="preserve"><value>Production</value></data>
+  <data name="IDS_4004" xml:space="preserve"><value>D. Chen</value></data>
+  <data name="IDS_4005" xml:space="preserve"><value>Programming</value></data>
+  <data name="IDS_4006" xml:space="preserve"><value>Y. Liu,X. Yin,L. Ran,C. Wang,C. Liu</value></data>
+  <data name="IDS_4007" xml:space="preserve"><value>Art</value></data>
+  <data name="IDS_4008" xml:space="preserve"><value>M. Xu</value></data>
+  <data name="IDS_4009" xml:space="preserve"><value>Quality Assurance</value></data>
+  <data name="IDS_4022" xml:space="preserve"><value>Monarch Bronze</value></data>
+  <data name="IDS_4023" xml:space="preserve"><value>Monarch Platinum</value></data>
+  <data name="IDS_4020" xml:space="preserve"><value>High voltage Bronze</value></data>
+  <data name="IDS_4021" xml:space="preserve"><value>High voltage Platinum</value></data>
+  <data name="IDS_4026" xml:space="preserve"><value>Chromatic </value></data>
+  <data name="IDS_4027" xml:space="preserve"><value>Stellar </value></data>
+  <data name="IDS_4024" xml:space="preserve"><value>Bonanza Bronze</value></data>
+  <data name="IDS_4025" xml:space="preserve"><value>Bonanza Platinum</value></data>
+  <data name="IDS_4028" xml:space="preserve"><value>Blaster </value></data>
+  <data name="IDS_4029" xml:space="preserve"><value>Superstar</value></data>
+  <data name="IDS_4011" xml:space="preserve"><value>ACHIEVEMENTS</value></data>
+  <data name="IDS_4010" xml:space="preserve"><value>Y. Feng</value></data>
+  <data name="IDS_4013" xml:space="preserve"><value>Bejeweler Gold</value></data>
+  <data name="IDS_4012" xml:space="preserve"><value>Levelord</value></data>
+  <data name="IDS_4015" xml:space="preserve"><value>Mine Platinum</value></data>
+  <data name="IDS_4014" xml:space="preserve"><value>Mine Bronze</value></data>
+  <data name="IDS_4017" xml:space="preserve"><value>Relic Hunter Platinum</value></data>
+  <data name="IDS_4016" xml:space="preserve"><value>Relic Hunter Bronze</value></data>
+  <data name="IDS_4019" xml:space="preserve"><value>Final frenzy Platinum</value></data>
+  <data name="IDS_4018" xml:space="preserve"><value>Final frenzy Bronze</value></data>
+  <data name="IDS_4044" xml:space="preserve"><value>Get the Bonanza bronze achievement </value></data>
+  <data name="IDS_4045" xml:space="preserve"><value>Get the Bonanza platinum achievement </value></data>
+  <data name="IDS_4046" xml:space="preserve"><value>Get the Chromatic achievement </value></data>
+  <data name="IDS_4047" xml:space="preserve"><value>Get the Stellar achievement </value></data>
+  <data name="IDS_4040" xml:space="preserve"><value>Get the High voltage bronze achievement </value></data>
+  <data name="IDS_4041" xml:space="preserve"><value>Get the High voltage platinum achievement </value></data>
+  <data name="IDS_4042" xml:space="preserve"><value>Get the Monarch bronze achievement </value></data>
+  <data name="IDS_4043" xml:space="preserve"><value>Get the Monarch platinum achievement </value></data>
+  <data name="IDS_4048" xml:space="preserve"><value>Get the Blaster achievement </value></data>
+  <data name="IDS_4049" xml:space="preserve"><value>Get the Superstar achievement </value></data>
+  <data name="IDS_4033" xml:space="preserve"><value>Get the Bejeweled Gold achievement </value></data>
+  <data name="IDS_4032" xml:space="preserve"><value>Get the Levelord achievement </value></data>
+  <data name="IDS_4031" xml:space="preserve"><value>Lucky Streak </value></data>
+  <data name="IDS_4030" xml:space="preserve"><value>Chain reaction </value></data>
+  <data name="IDS_4037" xml:space="preserve"><value>Get the Relic Hunter platinum achievement </value></data>
+  <data name="IDS_4036" xml:space="preserve"><value>Get the Relic Hunter bronze achievement </value></data>
+  <data name="IDS_4035" xml:space="preserve"><value>Get the Mine Platinium achievement </value></data>
+  <data name="IDS_4034" xml:space="preserve"><value>Get the Mine Bronze achievement </value></data>
+  <data name="IDS_4039" xml:space="preserve"><value>Get the Final frenzy platinum achievement </value></data>
+  <data name="IDS_4038" xml:space="preserve"><value>Get the Final frenzy bronze achievement </value></data>
+  <data name="IDS_4066" xml:space="preserve"><value>Detonate 7 special gems in a single move</value></data>
+  <data name="IDS_4067" xml:space="preserve"><value>Finish 3 games in a row over 250 000 points</value></data>
+  <data name="IDS_4064" xml:space="preserve"><value>Destroy 60 gems in 1 move</value></data>
+  <data name="IDS_4065" xml:space="preserve"><value>Line up 6 gems in a row</value></data>
+  <data name="IDS_4062" xml:space="preserve"><value>Clear 400 hypercubes </value></data>
+  <data name="IDS_4063" xml:space="preserve"><value>Clear 400 star gems </value></data>
+  <data name="IDS_4060" xml:space="preserve"><value>Collect 4 butterflies in one move in Butterfly</value></data>
+  <data name="IDS_4061" xml:space="preserve"><value>Collect 10 butterflies in one move in Butterfly</value></data>
+  <data name="IDS_4068" xml:space="preserve"><value>Score over 20 000 points during a Last Hurrah in Lightning mode</value></data>
+  <data name="IDS_4069" xml:space="preserve"><value>Score over 60 000 points during a Last Hurrah in Lightning mode</value></data>
+  <data name="IDS_4055" xml:space="preserve"><value>Score 750 000 points in Diamond Mine mode</value></data>
+  <data name="IDS_4054" xml:space="preserve"><value>Score 100 000 points in Diamond Mine mode</value></data>
+  <data name="IDS_4057" xml:space="preserve"><value>Collect 15 artifacts in Diamond Mine mode</value></data>
+  <data name="IDS_4056" xml:space="preserve"><value>Collect 8 artifacts in Diamond Mine mode</value></data>
+  <data name="IDS_4051" xml:space="preserve"><value>Get the Lucky streak achievement </value></data>
+  <data name="IDS_4050" xml:space="preserve"><value>Get the Chain reaction achievement </value></data>
+  <data name="IDS_4053" xml:space="preserve"><value>Score 300 000 points in classic mode</value></data>
+  <data name="IDS_4052" xml:space="preserve"><value>Reach level 10 in classic mode</value></data>
+  <data name="IDS_4059" xml:space="preserve"><value>Score 750 000 points in Butterflies</value></data>
+  <data name="IDS_4058" xml:space="preserve"><value>Score 300 000 points in Butterflies </value></data>
+  <data name="IDS_4071" xml:space="preserve"><value>Score 750 000 points in Lightning mode</value></data>
+  <data name="IDS_4070" xml:space="preserve"><value>Score 100 000 points in Lightning mode</value></data>
+  <data name="IDS_4901" xml:space="preserve"><value>Unable to connect to Xbox LIVE at this time. Please check your connection.</value></data>
+  <data name="IDS_4900" xml:space="preserve"><value>Error</value></data>
+  <data name="IDS_6002" xml:space="preserve"><value /></data>
+  <data name="IDS_6000" xml:space="preserve"><value>Development Team</value></data>
+  <data name="IDS_6001" xml:space="preserve"><value>Thomas Valmorin,Kenneth Holm,George Applegate,EA QA India,EA LT</value></data>
+  <data name="IDS_5001" xml:space="preserve"><value>Are you sure you want to quit the game?</value></data>
+  <data name="IDS_5000" xml:space="preserve"><value>QUIT GAME?</value></data>
+  <data name="IDS_5002" xml:space="preserve"><value>QUIT GAME</value></data>
+  <data name="IDS_7710" xml:space="preserve"><value>Do you want to interrupt your music and use game background music?</value></data>
+  <data name="IDS_7704" xml:space="preserve"><value>An update is available! This update is required to connect to Xbox LIVE. Update now?</value></data>
+  <data name="IDS_7701" xml:space="preserve"><value>yes</value></data>
+  <data name="IDS_7702" xml:space="preserve"><value>no</value></data>
+  <data name="IDS_7703" xml:space="preserve"><value>Title Update Available</value></data>
+  <data name="IDS_7791" xml:space="preserve"><value>AllTime</value></data>
+  <data name="IDS_7789" xml:space="preserve"><value>Recent</value></data>
+  <data name="IDS_3799" xml:space="preserve"><value>Do you wish to go to main menu? Your game is not saved in the trial version.</value></data>
+  <data name="IDS_3798" xml:space="preserve"><value>In the trial version you can only reach maximum of the 4th Level. Unlock the full version to enjoy the full experience.</value></data>
+  <data name="IDS_3791" xml:space="preserve"><value>GO TO MAIN MENU</value></data>
+  <data name="IDS_3790" xml:space="preserve"><value>Do you wish to go to main menu?  Your game will be saved.</value></data>
+  <data name="IDS_3793" xml:space="preserve"><value>You can't play this mode with trial version , would you like to buy the full game?</value></data>
+  <data name="IDS_3792" xml:space="preserve"><value>You can't proceed in with trial version , would you like to buy the full game?</value></data>
+  <data name="IDS_3795" xml:space="preserve"><value>BUY FULL GAME</value></data>
+  <data name="IDS_3794" xml:space="preserve"><value>You can't browse the achievements with trial version , would you like to buy the full game?</value></data>
+  <data name="IDS_3797" xml:space="preserve"><value>In the trial version you can only reach a maximum of {0} points. Unlock the full version to enjoy the full experience.</value></data>
+  <data name="IDS_3796" xml:space="preserve"><value>End Of The Trial Version</value></data>
+  <data name="IDS_3789" xml:space="preserve"><value>PROMPT</value></data>
+  <data name="IDS_3531" xml:space="preserve"><value>If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</value></data>
+  <data name="IDS_3530" xml:space="preserve"><value>USER SHARING</value></data>
+  <data name="IDS_3533" xml:space="preserve"><value>http://tos.ea.com/legalapp/mobileeula/US/en/OTHER</value></data>
+  <data name="IDS_3532" xml:space="preserve"><value>If you wish to send anonymous game play information to PopCap, check the box and we will enable the transmission of such information.</value></data>
+  <data name="IDS_3535" xml:space="preserve"><value>http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</value></data>
+  <data name="IDS_3534" xml:space="preserve"><value>http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/</value></data>
+  <data name="IDS_3537" xml:space="preserve"><value /></data>
+  <data name="IDS_3536" xml:space="preserve"><value /></data>
+  <data name="IDS_3539" xml:space="preserve"><value>For finishing 3 games in a row over {0} points</value></data>
+  <data name="IDS_3538" xml:space="preserve"><value>We're busy crafting new achievements</value></data>
+  <data name="IDS_3520" xml:space="preserve"><value>Speed</value></data>
+  <data name="IDS_3521" xml:space="preserve"><value>ABOUT</value></data>
+  <data name="IDS_3522" xml:space="preserve"><value>ABOUT</value></data>
+  <data name="IDS_3523" xml:space="preserve"><value>© 2013 Electronic Arts Inc. Bejeweled and PopCap are trademarks of Electronic Arts Inc.</value></data>
+  <data name="IDS_3524" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3525" xml:space="preserve"><value>Version {0}</value></data>
+  <data name="IDS_3526" xml:space="preserve"><value /></data>
+  <data name="IDS_3527" xml:space="preserve"><value>END USER LICENSE AGREEMENT</value></data>
+  <data name="IDS_3528" xml:space="preserve"><value>TERMS OF SERVICE</value></data>
+  <data name="IDS_3529" xml:space="preserve"><value>PRIVACY POLICY</value></data>
+  <data name="IDS_3510" xml:space="preserve"><value>Blue</value></data>
+  <data name="IDS_3517" xml:space="preserve"><value>Visibility</value></data>
+  <data name="IDS_3519" xml:space="preserve"><value>Visibility</value></data>
+  <data name="IDS_3518" xml:space="preserve"><value>Speed</value></data>
+  <data name="IDS_3502" xml:space="preserve"><value>Total Time Played:</value></data>
+  <data name="IDS_3503" xml:space="preserve"><value>N/A</value></data>
+  <data name="IDS_3500" xml:space="preserve"><value>Favorite Gem Color:</value></data>
+  <data name="IDS_3501" xml:space="preserve"><value>All-Time Best Move:
+</value></data>
+  <data name="IDS_3506" xml:space="preserve"><value>Green</value></data>
+  <data name="IDS_3507" xml:space="preserve"><value>Yellow</value></data>
+  <data name="IDS_3504" xml:space="preserve"><value>Red</value></data>
+  <data name="IDS_3505" xml:space="preserve"><value>White</value></data>
+  <data name="IDS_3508" xml:space="preserve"><value>Purple</value></data>
+  <data name="IDS_3509" xml:space="preserve"><value>Orange</value></data>
+  <data name="IDS_3575" xml:space="preserve"><value>EDIT PLAYER</value></data>
+  <data name="IDS_3574" xml:space="preserve"><value>Enter your name and select a picture to create a new player</value></data>
+  <data name="IDS_3577" xml:space="preserve"><value>Tap on your name to edit it or change your picture by selecting a new one</value></data>
+  <data name="IDS_3576" xml:space="preserve"><value>SAVE</value></data>
+  <data name="IDS_3571" xml:space="preserve"><value>CANCEL</value></data>
+  <data name="IDS_3570" xml:space="preserve"><value>© 2013 Electronic Arts Inc. Bejeweled and PopCap are trademarks of Electronic Arts Inc.</value></data>
+  <data name="IDS_3573" xml:space="preserve"><value>CONTINUE</value></data>
+  <data name="IDS_3572" xml:space="preserve"><value>Player</value></data>
+  <data name="IDS_3579" xml:space="preserve"><value>HOW TO PLAY</value></data>
+  <data name="IDS_3578" xml:space="preserve"><value>FINAL SCORE</value></data>
+  <data name="IDS_3564" xml:space="preserve"><value>Spectacular</value></data>
+  <data name="IDS_3565" xml:space="preserve"><value>Extraordinary</value></data>
+  <data name="IDS_3566" xml:space="preserve"><value>Unbelievable</value></data>
+  <data name="IDS_3567" xml:space="preserve"><value>Blazing Speed</value></data>
+  <data name="IDS_3560" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_3561" xml:space="preserve"><value>Good</value></data>
+  <data name="IDS_3562" xml:space="preserve"><value>Excellent</value></data>
+  <data name="IDS_3563" xml:space="preserve"><value>Awesome</value></data>
+  <data name="IDS_3568" xml:space="preserve"><value>MENU</value></data>
+  <data name="IDS_3569" xml:space="preserve"><value>{0}</value></data>
+  <data name="IDS_3557" xml:space="preserve"><value>Score as many points as possible until there are no more moves.</value></data>
+  <data name="IDS_3556" xml:space="preserve"><value>Relax body and mind in this endless mode.</value></data>
+  <data name="IDS_3555" xml:space="preserve"><value>Score as many points as you can before the time runs out.</value></data>
+  <data name="IDS_3554" xml:space="preserve"><value>Score as many points as possible until there are no more moves.</value></data>
+  <data name="IDS_3553" xml:space="preserve"><value>Elite</value></data>
+  <data name="IDS_3552" xml:space="preserve"><value>Swipe for more achievements</value></data>
+  <data name="IDS_3551" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_3550" xml:space="preserve"><value>Collected one million gems</value></data>
+  <data name="IDS_3559" xml:space="preserve"><value>MAIN MENU</value></data>
+  <data name="IDS_3558" xml:space="preserve"><value>Score as many points as you can before a Butterfly Gem reaches the top.</value></data>
+  <data name="IDS_3546" xml:space="preserve"><value>Make {0} matches during a cascade to earn a {1} achievement</value></data>
+  <data name="IDS_3547" xml:space="preserve"><value>Made {0} matches during a cascade
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_3544" xml:space="preserve"><value>Detonated {0} gems in a single move
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_3545" xml:space="preserve"><value>For making {0} matches during a cascade</value></data>
+  <data name="IDS_3542" xml:space="preserve"><value>For detonating {0} special gems in a single move</value></data>
+  <data name="IDS_3543" xml:space="preserve"><value>Detonate {0} special gems in a single move to earn a {1} achievement</value></data>
+  <data name="IDS_3540" xml:space="preserve"><value>Finish 3 games in a row over {0} points to earn a {1} achievement</value></data>
+  <data name="IDS_3541" xml:space="preserve"><value>Finished 3 games in a row over {0} points
+^FFFF00^MAX LEVEL</value></data>
+  <data name="IDS_3548" xml:space="preserve"><value>For collecting one million gems</value></data>
+  <data name="IDS_3549" xml:space="preserve"><value>Collect one million gems to earn this achievement</value></data>
+  <data name="IDS_3599" xml:space="preserve"><value>Mute All Sounds</value></data>
+  <data name="IDS_3598" xml:space="preserve"><value>MAIN MENU</value></data>
+  <data name="IDS_3593" xml:space="preserve"><value>RATE</value></data>
+  <data name="IDS_3592" xml:space="preserve"><value>PopCap.com</value></data>
+  <data name="IDS_3591" xml:space="preserve"><value>CHECK OUT THESE OTHER POPCAP GAMES!</value></data>
+  <data name="IDS_3590" xml:space="preserve"><value>!!!!! Selection description goes here. !!!!!</value></data>
+  <data name="IDS_3597" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3596" xml:space="preserve"><value>Oops! We were unable to contact the network. Please try again later.</value></data>
+  <data name="IDS_3595" xml:space="preserve"><value>MORE GAMES</value></data>
+  <data name="IDS_3594" xml:space="preserve"><value>GIFT</value></data>
+  <data name="IDS_3588" xml:space="preserve"><value>Be sure to follow us on Facebook and Twitter as well!</value></data>
+  <data name="IDS_3589" xml:space="preserve"><value>Go to</value></data>
+  <data name="IDS_3582" xml:space="preserve"><value>http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/</value></data>
+  <data name="IDS_3583" xml:space="preserve"><value>http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</value></data>
+  <data name="IDS_3580" xml:space="preserve"><value>CONTINUE</value></data>
+  <data name="IDS_3581" xml:space="preserve"><value>http://tos.ea.com/legalapp/mobileeula/US/en/GM/</value></data>
+  <data name="IDS_3586" xml:space="preserve"><value>Love Bejeweled?</value></data>
+  <data name="IDS_3587" xml:space="preserve"><value>We think Bejeweled is a gem of a game. If you agree why not rate the game or give the game as a gift?</value></data>
+  <data name="IDS_3584" xml:space="preserve"><value>Welcome back</value></data>
+  <data name="IDS_3585" xml:space="preserve"><value>RECORDS</value></data>
+  <data name="IDS_3610" xml:space="preserve"><value>RESTART</value></data>
+  <data name="IDS_3611" xml:space="preserve"><value>RESUME</value></data>
+  <data name="IDS_3612" xml:space="preserve"><value>ACHIEVEMENTS</value></data>
+  <data name="IDS_3613" xml:space="preserve"><value>STATS</value></data>
+  <data name="IDS_3614" xml:space="preserve"><value>{0} TOP SCORES</value></data>
+  <data name="IDS_3615" xml:space="preserve"><value>Rank {0}: {1}</value></data>
+  <data name="IDS_3616" xml:space="preserve"><value>Replace the game music with environmental audio tracks for greater relaxation and focus.</value></data>
+  <data name="IDS_3617" xml:space="preserve"><value>Choose your Sound</value></data>
+  <data name="IDS_3618" xml:space="preserve"><value>Positive textual affirmations are displayed onscreen, helping to focus on beneficial areas for meditation.</value></data>
+  <data name="IDS_3619" xml:space="preserve"><value>Choose your Mantra</value></data>
+  <data name="IDS_3632" xml:space="preserve"><value>Customise your Zen Experience!</value></data>
+  <data name="IDS_3633" xml:space="preserve"><value>AMBIENT SOUNDS</value></data>
+  <data name="IDS_3630" xml:space="preserve"><value>RESUME</value></data>
+  <data name="IDS_3631" xml:space="preserve"><value>ZEN OPTIONS</value></data>
+  <data name="IDS_3636" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3637" xml:space="preserve"><value>RESUME</value></data>
+  <data name="IDS_3634" xml:space="preserve"><value>MANTRAS</value></data>
+  <data name="IDS_3635" xml:space="preserve"><value>BREATHING MODULATION</value></data>
+  <data name="IDS_3638" xml:space="preserve"><value>GAME CENTER</value></data>
+  <data name="IDS_3639" xml:space="preserve"><value>Unable to log into Game Center.</value></data>
+  <data name="IDS_3601" xml:space="preserve"><value>Music</value></data>
+  <data name="IDS_3600" xml:space="preserve"><value>In-Game Help</value></data>
+  <data name="IDS_3603" xml:space="preserve"><value>Voices</value></data>
+  <data name="IDS_3602" xml:space="preserve"><value>Sound</value></data>
+  <data name="IDS_3605" xml:space="preserve"><value>CREDITS</value></data>
+  <data name="IDS_3604" xml:space="preserve"><value>HELP &amp; OPTIONS</value></data>
+  <data name="IDS_3607" xml:space="preserve"><value>SETTINGS</value></data>
+  <data name="IDS_3606" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3609" xml:space="preserve"><value>RESUME</value></data>
+  <data name="IDS_3608" xml:space="preserve"><value>HELP &amp; OPTIONS</value></data>
+  <data name="IDS_3623" xml:space="preserve"><value>Positive textual affirmations are displayed onscreen, helping to focus on beneficial areas for meditation.</value></data>
+  <data name="IDS_3622" xml:space="preserve"><value>Replace the game music with environmental audio tracks for greater relaxation and focus.</value></data>
+  <data name="IDS_3621" xml:space="preserve"><value>Enable</value></data>
+  <data name="IDS_3620" xml:space="preserve"><value>Audio and visual feedback help modulate your breathing and create a sense of relaxation.</value></data>
+  <data name="IDS_3627" xml:space="preserve"><value>Mantras</value></data>
+  <data name="IDS_3626" xml:space="preserve"><value>Ambient
+Sounds</value></data>
+  <data name="IDS_3625" xml:space="preserve"><value>Enable</value></data>
+  <data name="IDS_3624" xml:space="preserve"><value>Audio and visual feedback help modulate your breathing and create a sense of relaxation.</value></data>
+  <data name="IDS_3629" xml:space="preserve"><value>MAIN MENU</value></data>
+  <data name="IDS_3628" xml:space="preserve"><value>Breathing
+Modulation</value></data>
+  <data name="IDS_3640" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3351" xml:space="preserve"><value>Already a Bejeweled Pro?</value></data>
+  <data name="IDS_3350" xml:space="preserve"><value>^700443^Start with ^7514BB^Classic^700443^.</value></data>
+  <data name="IDS_3353" xml:space="preserve"><value>LEGAL</value></data>
+  <data name="IDS_3352" xml:space="preserve"><value>^700443^Try all-new ^7514BB^Butterflies^700443^,
+dig for treasure in ^7514BB^Diamond Mine^700443^
+or relax body and mind in ^7514BB^Zen^700443^ mode.</value></data>
+  <data name="IDS_3355" xml:space="preserve"><value>If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</value></data>
+  <data name="IDS_3354" xml:space="preserve"><value>USER SHARING</value></data>
+  <data name="IDS_3357" xml:space="preserve"><value>END USER LICENSE AGREEMENT</value></data>
+  <data name="IDS_3356" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3359" xml:space="preserve"><value>TERMS OF SERVICE</value></data>
+  <data name="IDS_3358" xml:space="preserve"><value>PRIVACY POLICY</value></data>
+  <data name="IDS_3341" xml:space="preserve"><value>PLAY</value></data>
+  <data name="IDS_3342" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3343" xml:space="preserve"><value>TOP SCORES</value></data>
+  <data name="IDS_3344" xml:space="preserve"><value>Swipe for more leaderboards</value></data>
+  <data name="IDS_3345" xml:space="preserve"><value>MAIN MENU</value></data>
+  <data name="IDS_3346" xml:space="preserve"><value>PLAY</value></data>
+  <data name="IDS_3347" xml:space="preserve"><value>WELCOME TO BEJEWELED</value></data>
+  <data name="IDS_3348" xml:space="preserve"><value>CONTINUE</value></data>
+  <data name="IDS_3349" xml:space="preserve"><value>New to Bejeweled?</value></data>
+  <data name="IDS_3373" xml:space="preserve"><value /></data>
+  <data name="IDS_3372" xml:space="preserve"><value>CLASSIC</value></data>
+  <data name="IDS_3371" xml:space="preserve"><value /></data>
+  <data name="IDS_3370" xml:space="preserve"><value>MINE</value></data>
+  <data name="IDS_3377" xml:space="preserve"><value /></data>
+  <data name="IDS_3376" xml:space="preserve"><value /></data>
+  <data name="IDS_3375" xml:space="preserve"><value>LIGHTNING</value></data>
+  <data name="IDS_3374" xml:space="preserve"><value /></data>
+  <data name="IDS_3379" xml:space="preserve"><value /></data>
+  <data name="IDS_3378" xml:space="preserve"><value>BUTTERFLIES</value></data>
+  <data name="IDS_3362" xml:space="preserve"><value>If you wish to send anonymous game play information to PopCap, check the box and we will enable the transmission of such information.</value></data>
+  <data name="IDS_3363" xml:space="preserve"><value>BLITZ</value></data>
+  <data name="IDS_3360" xml:space="preserve"><value>USER SHARING</value></data>
+  <data name="IDS_3361" xml:space="preserve"><value>If you no longer wish to send anonymous game play information to PopCap, uncheck the box and we will disable the transmission of such information.</value></data>
+  <data name="IDS_3366" xml:space="preserve"><value>ZEN</value></data>
+  <data name="IDS_3367" xml:space="preserve"><value /></data>
+  <data name="IDS_3364" xml:space="preserve"><value /></data>
+  <data name="IDS_3365" xml:space="preserve"><value /></data>
+  <data name="IDS_3368" xml:space="preserve"><value /></data>
+  <data name="IDS_3369" xml:space="preserve"><value>DIAMOND</value></data>
+  <data name="IDS_3315" xml:space="preserve"><value>Skull Coin Flips:</value></data>
+  <data name="IDS_3314" xml:space="preserve"><value>Skulls Busted:</value></data>
+  <data name="IDS_3317" xml:space="preserve"><value>Highest Multiplier:</value></data>
+  <data name="IDS_3316" xml:space="preserve"><value>SPECIAL GEMS</value></data>
+  <data name="IDS_3311" xml:space="preserve"><value>SPECIAL GEMS</value></data>
+  <data name="IDS_3310" xml:space="preserve"><value>Total Time:</value></data>
+  <data name="IDS_3313" xml:space="preserve"><value>Number of Hands:</value></data>
+  <data name="IDS_3312" xml:space="preserve"><value>Best Hand:</value></data>
+  <data name="IDS_3319" xml:space="preserve"><value>Longest Cascade:</value></data>
+  <data name="IDS_3318" xml:space="preserve"><value>Best move:</value></data>
+  <data name="IDS_3304" xml:space="preserve"><value>Best Move:</value></data>
+  <data name="IDS_3305" xml:space="preserve"><value>Best Treasure:</value></data>
+  <data name="IDS_3306" xml:space="preserve"><value>TREASURE FOUND</value></data>
+  <data name="IDS_3307" xml:space="preserve"><value>Butterflies Freed:</value></data>
+  <data name="IDS_3300" xml:space="preserve"><value>Total Time:</value></data>
+  <data name="IDS_3301" xml:space="preserve"><value>SPECIAL GEMS</value></data>
+  <data name="IDS_3302" xml:space="preserve"><value>Max Depth:</value></data>
+  <data name="IDS_3303" xml:space="preserve"><value>Total Time:</value></data>
+  <data name="IDS_3308" xml:space="preserve"><value>Best Move:</value></data>
+  <data name="IDS_3309" xml:space="preserve"><value>Best Butterfly Combo:</value></data>
+  <data name="IDS_3337" xml:space="preserve"><value>HELP</value></data>
+  <data name="IDS_3336" xml:space="preserve"><value>No Thanks</value></data>
+  <data name="IDS_3335" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_3334" xml:space="preserve"><value>GIFT THIS APP</value></data>
+  <data name="IDS_3333" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3332" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3331" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3330" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3339" xml:space="preserve"><value>Help</value></data>
+  <data name="IDS_3338" xml:space="preserve"><value>Swipe for more help</value></data>
+  <data name="IDS_3326" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3327" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3324" xml:space="preserve"><value>{0} m</value></data>
+  <data name="IDS_3325" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3322" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3323" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3320" xml:space="preserve"><value>Total time:</value></data>
+  <data name="IDS_3321" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3328" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3329" xml:space="preserve"><value>x {0}</value></data>
+  <data name="IDS_3399" xml:space="preserve"><value>Coming Soon</value></data>
+  <data name="IDS_3395" xml:space="preserve"><value>MORE</value></data>
+  <data name="IDS_3394" xml:space="preserve"><value>GAMES</value></data>
+  <data name="IDS_3396" xml:space="preserve"><value>GAMES</value></data>
+  <data name="IDS_3391" xml:space="preserve"><value>ABOUT</value></data>
+  <data name="IDS_3390" xml:space="preserve"><value>HELP&amp;</value></data>
+  <data name="IDS_3393" xml:space="preserve"><value>BONUS</value></data>
+  <data name="IDS_3388" xml:space="preserve"><value>FULL GAME</value></data>
+  <data name="IDS_3389" xml:space="preserve"><value /></data>
+  <data name="IDS_3384" xml:space="preserve"><value>ACHIEVEMENTS</value></data>
+  <data name="IDS_3385" xml:space="preserve"><value /></data>
+  <data name="IDS_3386" xml:space="preserve"><value /></data>
+  <data name="IDS_3387" xml:space="preserve"><value>BUY</value></data>
+  <data name="IDS_3380" xml:space="preserve"><value /></data>
+  <data name="IDS_3381" xml:space="preserve"><value>LEADERBOARDS</value></data>
+  <data name="IDS_3382" xml:space="preserve"><value /></data>
+  <data name="IDS_3383" xml:space="preserve"><value /></data>
+  <data name="IDS_3430" xml:space="preserve"><value>TOP SCORES</value></data>
+  <data name="IDS_3431" xml:space="preserve"><value>ACHIEVEMENTS</value></data>
+  <data name="IDS_3432" xml:space="preserve"><value>STATS</value></data>
+  <data name="IDS_3433" xml:space="preserve"><value>TOP SCORES</value></data>
+  <data name="IDS_3434" xml:space="preserve"><value>LOVE BEJEWELED?</value></data>
+  <data name="IDS_3435" xml:space="preserve"><value>We think Bejeweled is a gem of a game. If you agree, let us know by giving it a 5 star rating.</value></data>
+  <data name="IDS_3436" xml:space="preserve"><value>RATE NOW!</value></data>
+  <data name="IDS_3437" xml:space="preserve"><value>NO</value></data>
+  <data name="IDS_3438" xml:space="preserve"><value>LATER</value></data>
+  <data name="IDS_3439" xml:space="preserve"><value>STATS</value></data>
+  <data name="IDS_3413" xml:space="preserve"><value>MORE GAMES</value></data>
+  <data name="IDS_3416" xml:space="preserve"><value>Mute All Sounds</value></data>
+  <data name="IDS_3417" xml:space="preserve"><value>Help</value></data>
+  <data name="IDS_3414" xml:space="preserve"><value>EDIT NAME</value></data>
+  <data name="IDS_3415" xml:space="preserve"><value>Auto-Hint</value></data>
+  <data name="IDS_3419" xml:space="preserve"><value>ABOUT</value></data>
+  <data name="IDS_3421" xml:space="preserve"><value>LEGAL</value></data>
+  <data name="IDS_3423" xml:space="preserve"><value>HELP</value></data>
+  <data name="IDS_3422" xml:space="preserve"><value>RESTART</value></data>
+  <data name="IDS_3424" xml:space="preserve"><value>MAIN MENU</value></data>
+  <data name="IDS_3427" xml:space="preserve"><value>EDIT PROFILE</value></data>
+  <data name="IDS_3426" xml:space="preserve"><value>Fill this bar by scoring the best hands possible. When full, it will eliminate a Skull from the scoreboard.</value></data>
+  <data name="IDS_3429" xml:space="preserve"><value>STATS</value></data>
+  <data name="IDS_3428" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3474" xml:space="preserve"><value>Self-Confidence</value></data>
+  <data name="IDS_3475" xml:space="preserve"><value>Weight Loss</value></data>
+  <data name="IDS_3476" xml:space="preserve"><value>ZEN OPTIONS</value></data>
+  <data name="IDS_3470" xml:space="preserve"><value>General</value></data>
+  <data name="IDS_3471" xml:space="preserve"><value>Positive Thinking</value></data>
+  <data name="IDS_3472" xml:space="preserve"><value>Quit Bad Habits</value></data>
+  <data name="IDS_3473" xml:space="preserve"><value>Prosperity</value></data>
+  <data name="IDS_3403" xml:space="preserve"><value>OPTIONS</value></data>
+  <data name="IDS_3402" xml:space="preserve"><value>PROFILE</value></data>
+  <data name="IDS_3401" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3400" xml:space="preserve"><value>We're working hard to bring you more game modes in future updates. Stay tuned!</value></data>
+  <data name="IDS_3407" xml:space="preserve"><value>Loading, please wait...</value></data>
+  <data name="IDS_3406" xml:space="preserve"><value>HELP</value></data>
+  <data name="IDS_3405" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3404" xml:space="preserve"><value>MORE GAMES</value></data>
+  <data name="IDS_3409" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3408" xml:space="preserve"><value>Oops! We were unable to contact the network.
+Please try again later.</value></data>
+  <data name="IDS_3450" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3465" xml:space="preserve"><value>Rain Leaves</value></data>
+  <data name="IDS_3464" xml:space="preserve"><value>Crickets</value></data>
+  <data name="IDS_3467" xml:space="preserve"><value>Coastal</value></data>
+  <data name="IDS_3466" xml:space="preserve"><value>Waterfall</value></data>
+  <data name="IDS_3461" xml:space="preserve"><value>None</value></data>
+  <data name="IDS_3463" xml:space="preserve"><value>Ocean Surf</value></data>
+  <data name="IDS_3462" xml:space="preserve"><value>Random</value></data>
+  <data name="IDS_3469" xml:space="preserve"><value>None</value></data>
+  <data name="IDS_3468" xml:space="preserve"><value>Forest</value></data>
+  <data name="IDS_3447" xml:space="preserve"><value>Boost your brain with positive mantras</value></data>
+  <data name="IDS_3446" xml:space="preserve"><value>Chill out with soothing ambient sounds</value></data>
+  <data name="IDS_3445" xml:space="preserve"><value>Relax as you play this endless mode</value></data>
+  <data name="IDS_3444" xml:space="preserve"><value>CONTINUE</value></data>
+  <data name="IDS_3443" xml:space="preserve"><value>ZEN</value></data>
+  <data name="IDS_3442" xml:space="preserve"><value>ZEN OPTIONS</value></data>
+  <data name="IDS_3441" xml:space="preserve"><value>Current Zen Score:</value></data>
+  <data name="IDS_3440" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3449" xml:space="preserve"><value>Headphones are recommended</value></data>
+  <data name="IDS_3448" xml:space="preserve"><value>Release stress with breathing modulation</value></data>
+  <data name="IDS_3498" xml:space="preserve"><value>Star Gems:</value></data>
+  <data name="IDS_3499" xml:space="preserve"><value>Hypercubes:</value></data>
+  <data name="IDS_3492" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_3493" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_3490" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_3491" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_3496" xml:space="preserve"><value>Gems Matched:</value></data>
+  <data name="IDS_3497" xml:space="preserve"><value>Flame Gems:</value></data>
+  <data name="IDS_3494" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_3495" xml:space="preserve"><value>{0}%</value></data>
+  <data name="IDS_3488" xml:space="preserve"><value>You have earned the</value></data>
+  <data name="IDS_3483" xml:space="preserve"><value>Zen Options</value></data>
+  <data name="IDS_3487" xml:space="preserve"><value>CLOSE</value></data>
+  <data name="IDS_3486" xml:space="preserve"><value>Breathing Modulation</value></data>
+  <data name="IDS_3485" xml:space="preserve"><value>Mantras</value></data>
+  <data name="IDS_3484" xml:space="preserve"><value>Ambient Sounds</value></data>
+  <data name="IDS_3171" xml:space="preserve"><value>Collected 12 artifacts in Diamond Mine</value></data>
+  <data name="IDS_3170" xml:space="preserve"><value>Collect 12 artifacts in Diamond Mine</value></data>
+  <data name="IDS_3173" xml:space="preserve"><value>Collect 15 artifacts in Diamond Mine</value></data>
+  <data name="IDS_3172" xml:space="preserve"><value>Relic Hunter (Platinum)</value></data>
+  <data name="IDS_3175" xml:space="preserve"><value>Annihilator</value></data>
+  <data name="IDS_3174" xml:space="preserve"><value>Collected 15 artifacts in Diamond Mine</value></data>
+  <data name="IDS_3177" xml:space="preserve"><value>Matched two Hypercubes together</value></data>
+  <data name="IDS_3176" xml:space="preserve"><value>Match two Hypercubes together</value></data>
+  <data name="IDS_3179" xml:space="preserve"><value>Line up 6 Gems in a row</value></data>
+  <data name="IDS_3178" xml:space="preserve"><value>Superstar</value></data>
+  <data name="IDS_3160" xml:space="preserve"><value>Diamond, Mine (Platinum)</value></data>
+  <data name="IDS_3161" xml:space="preserve"><value>Score 750,000 points in Diamond Mine</value></data>
+  <data name="IDS_3162" xml:space="preserve"><value>Scored 750,000 points in Diamond Mine</value></data>
+  <data name="IDS_3163" xml:space="preserve"><value>Relic Hunter (Bronze)</value></data>
+  <data name="IDS_3164" xml:space="preserve"><value>Collect 5 artifacts in Diamond Mine</value></data>
+  <data name="IDS_3165" xml:space="preserve"><value>Collected 5 artifacts in Diamond Mine</value></data>
+  <data name="IDS_3166" xml:space="preserve"><value>Relic Hunter (Silver)</value></data>
+  <data name="IDS_3167" xml:space="preserve"><value>Collect 8 artifacts in Diamond Mine</value></data>
+  <data name="IDS_3168" xml:space="preserve"><value>Collected 8 artifacts in Diamond Mine</value></data>
+  <data name="IDS_3169" xml:space="preserve"><value>Relic Hunter (Gold)</value></data>
+  <data name="IDS_3153" xml:space="preserve"><value>Scored 100,000 points in Diamond Mine</value></data>
+  <data name="IDS_3152" xml:space="preserve"><value>Score 100,000 points in Diamond Mine</value></data>
+  <data name="IDS_3151" xml:space="preserve"><value>Diamond, Mine (Bronze)</value></data>
+  <data name="IDS_3150" xml:space="preserve"><value>Finished a Classic game with a score over 500,000</value></data>
+  <data name="IDS_3157" xml:space="preserve"><value>Diamond, Mine (Gold)</value></data>
+  <data name="IDS_3156" xml:space="preserve"><value>Scored 300,000 points in Diamond Mine</value></data>
+  <data name="IDS_3155" xml:space="preserve"><value>Score 300,000 points in Diamond Mine</value></data>
+  <data name="IDS_3154" xml:space="preserve"><value>Diamond, Mine (Silver)</value></data>
+  <data name="IDS_3159" xml:space="preserve"><value>Scored 500,000 points in Diamond Mine</value></data>
+  <data name="IDS_3158" xml:space="preserve"><value>Score 500,000 points in Diamond Mine</value></data>
+  <data name="IDS_3142" xml:space="preserve"><value>Bejeweler (Silver)</value></data>
+  <data name="IDS_3143" xml:space="preserve"><value>Finish a Classic game with a score over 150,000</value></data>
+  <data name="IDS_3140" xml:space="preserve"><value>Finish a Classic game with a score over 50,000</value></data>
+  <data name="IDS_3141" xml:space="preserve"><value>Finished a Classic game with a score over 50,000</value></data>
+  <data name="IDS_3146" xml:space="preserve"><value>Finish a Classic game with a score over 300,000</value></data>
+  <data name="IDS_3147" xml:space="preserve"><value>Finished a Classic game with a score over 300,000</value></data>
+  <data name="IDS_3144" xml:space="preserve"><value>Finished a Classic game with a score over 150,000</value></data>
+  <data name="IDS_3145" xml:space="preserve"><value>Bejeweler (Gold)</value></data>
+  <data name="IDS_3148" xml:space="preserve"><value>Bejeweler (Platinum)</value></data>
+  <data name="IDS_3149" xml:space="preserve"><value>Finish a Classic game with a score over 500,000</value></data>
+  <data name="IDS_3135" xml:space="preserve"><value>Destroyed 50 Gems in a single move</value></data>
+  <data name="IDS_3134" xml:space="preserve"><value>Destroy 50 Gems in a single move</value></data>
+  <data name="IDS_3137" xml:space="preserve"><value>Destroy 60 Gems in a single move</value></data>
+  <data name="IDS_3136" xml:space="preserve"><value>Blaster (Platinum)</value></data>
+  <data name="IDS_3131" xml:space="preserve"><value>Destroy 40 Gems in a single move</value></data>
+  <data name="IDS_3130" xml:space="preserve"><value>Blaster (Silver)</value></data>
+  <data name="IDS_3133" xml:space="preserve"><value>Blaster (Gold)</value></data>
+  <data name="IDS_3132" xml:space="preserve"><value>Destroyed 40 Gems in a single move</value></data>
+  <data name="IDS_3139" xml:space="preserve"><value>Bejeweler (Bronze)</value></data>
+  <data name="IDS_3138" xml:space="preserve"><value>Destroyed 60 Gems in a single move</value></data>
+  <data name="IDS_3124" xml:space="preserve"><value>Chromatic (Platinum)</value></data>
+  <data name="IDS_3125" xml:space="preserve"><value>Clear 750 Hypercubes</value></data>
+  <data name="IDS_3126" xml:space="preserve"><value>Cleared 750 Hypercubes</value></data>
+  <data name="IDS_3127" xml:space="preserve"><value>Blaster (Bronze)</value></data>
+  <data name="IDS_3120" xml:space="preserve"><value>Cleared 125 Hypercubes</value></data>
+  <data name="IDS_3121" xml:space="preserve"><value>Chromatic (Gold)</value></data>
+  <data name="IDS_3122" xml:space="preserve"><value>Clear 400 Hypercubes</value></data>
+  <data name="IDS_3123" xml:space="preserve"><value>Cleared 400 Hypercubes</value></data>
+  <data name="IDS_3128" xml:space="preserve"><value>Destroy 30 Gems in a single move</value></data>
+  <data name="IDS_3129" xml:space="preserve"><value>Destroyed 30 Gems in a single move</value></data>
+  <data name="IDS_3117" xml:space="preserve"><value>Cleared 25 Hypercubes</value></data>
+  <data name="IDS_3116" xml:space="preserve"><value>Clear 25 Hypercubes</value></data>
+  <data name="IDS_3115" xml:space="preserve"><value>Chromatic (Bronze)</value></data>
+  <data name="IDS_3114" xml:space="preserve"><value>Cleared 750 Star Gems</value></data>
+  <data name="IDS_3113" xml:space="preserve"><value>Clear 750 Star Gems</value></data>
+  <data name="IDS_3112" xml:space="preserve"><value>Stellar (Platinum)</value></data>
+  <data name="IDS_3111" xml:space="preserve"><value>Cleared 400 Star Gems</value></data>
+  <data name="IDS_3110" xml:space="preserve"><value>Clear 400 Star Gems</value></data>
+  <data name="IDS_3119" xml:space="preserve"><value>Clear 125 Hypercubes</value></data>
+  <data name="IDS_3118" xml:space="preserve"><value>Chromatic (Silver)</value></data>
+  <data name="IDS_3106" xml:space="preserve"><value>Stellar (Silver)</value></data>
+  <data name="IDS_3107" xml:space="preserve"><value>Clear 125 Star Gems</value></data>
+  <data name="IDS_3104" xml:space="preserve"><value>Clear 25 Star Gems</value></data>
+  <data name="IDS_3105" xml:space="preserve"><value>Cleared 25 Star Gems</value></data>
+  <data name="IDS_3102" xml:space="preserve"><value>Cleared 2,000 Flame Gems</value></data>
+  <data name="IDS_3103" xml:space="preserve"><value>Stellar (Bronze)</value></data>
+  <data name="IDS_3100" xml:space="preserve"><value>Inferno (Platinum)</value></data>
+  <data name="IDS_3101" xml:space="preserve"><value>Clear 2,000 Flame Gems</value></data>
+  <data name="IDS_3108" xml:space="preserve"><value>Cleared 125 Star Gems</value></data>
+  <data name="IDS_3109" xml:space="preserve"><value>Stellar (Gold)</value></data>
+  <data name="IDS_3199" xml:space="preserve"><value>CANCEL</value></data>
+  <data name="IDS_3198" xml:space="preserve"><value>VISIT WEBSITE</value></data>
+  <data name="IDS_3197" xml:space="preserve"><value>Minimize Bejeweled Live + and go to external website?</value></data>
+  <data name="IDS_3196" xml:space="preserve"><value>VISIT WEBSITE?</value></data>
+  <data name="IDS_3195" xml:space="preserve"><value>CANCEL</value></data>
+  <data name="IDS_3194" xml:space="preserve"><value>GET BLITZ!</value></data>
+  <data name="IDS_3193" xml:space="preserve"><value>Minimize Bejeweled and go to the App Store to get Bejeweled Blitz for FREE?</value></data>
+  <data name="IDS_3192" xml:space="preserve"><value>GET BEJEWELED BLITZ FOR FREE?</value></data>
+  <data name="IDS_3191" xml:space="preserve"><value>CANCEL</value></data>
+  <data name="IDS_3190" xml:space="preserve"><value>LAUNCH BLITZ</value></data>
+  <data name="IDS_3188" xml:space="preserve"><value>LAUNCH BEJEWELED BLITZ?</value></data>
+  <data name="IDS_3189" xml:space="preserve"><value>Minimize Bejeweled and launch Bejeweled Blitz?</value></data>
+  <data name="IDS_3186" xml:space="preserve"><value>NEW GAME</value></data>
+  <data name="IDS_3187" xml:space="preserve"><value>CANCEL</value></data>
+  <data name="IDS_3184" xml:space="preserve"><value>Resume a saved game or start a new one? Your saved game will be lost if you start a new one.</value></data>
+  <data name="IDS_3185" xml:space="preserve"><value>RESUME GAME</value></data>
+  <data name="IDS_3182" xml:space="preserve"><value>Reach level 10 in Classic Mode</value></data>
+  <data name="IDS_3183" xml:space="preserve"><value>Reached level 10 in Classic Mode</value></data>
+  <data name="IDS_3180" xml:space="preserve"><value>Created a Supernova Gem</value></data>
+  <data name="IDS_3181" xml:space="preserve"><value>Levelord</value></data>
+  <data name="IDS_3250" xml:space="preserve"><value>Writing</value></data>
+  <data name="IDS_3251" xml:space="preserve"><value>Quality Assurance</value></data>
+  <data name="IDS_3252" xml:space="preserve"><value>Localization</value></data>
+  <data name="IDS_3253" xml:space="preserve"><value>Special Thanks</value></data>
+  <data name="IDS_3254" xml:space="preserve"><value>PC/Mac Team</value></data>
+  <data name="IDS_3255" xml:space="preserve"><value>Production</value></data>
+  <data name="IDS_3256" xml:space="preserve"><value>Game Design</value></data>
+  <data name="IDS_3257" xml:space="preserve"><value>Programming</value></data>
+  <data name="IDS_3258" xml:space="preserve"><value>Art</value></data>
+  <data name="IDS_3259" xml:space="preserve"><value>Audio</value></data>
+  <data name="IDS_3272" xml:space="preserve"><value>Ed Allard,Sharon Archbold,Sameer Baroova,Aoife Brennan,Paul Breslin,Bob Chamberlain,John Coleman,Valeria Colnaghi,Giordano Contestabile,Meriem Djazouli,Meredith Dorrance,Eddie Dowse,Plamen Dragozov,Brian Fiete,Kieran Gleeson,John Halloran,Gillian Hayes,Nicole LeMaster,Linda McGee,Cormac Mulhall,Kate O'Brien,Cathy Orr,Stiw Puljic,Guillaume Richard,David Roberts,Jennifer Staunton,Andrew Stein,John Vechey,David Ward,Ember Wardrop</value></data>
+  <data name="IDS_3273" xml:space="preserve"><value>Michael Guillory,Jason Kapalka,Sukhbir Sidhu</value></data>
+  <data name="IDS_3270" xml:space="preserve"><value>Adam Beck,Didier Canovas,David Cleaveley,Aaron Collum,Colm Gallagher,Stephen Geddes,Kar Hay Ho,Brian Lelas,Carlos Losada,Philip Plunkett,Ildefonso Ranchal,Carl Sidebotham,Viacheslav Zakhariev</value></data>
+  <data name="IDS_3271" xml:space="preserve"><value>Antonio Asensio Pérez,Karl Byrne,Mark Coffey,Jean De Merey,Shinobu Koiwa,Anthony Mackey,Silvie McCullough,John Paul Newman,Lorenzo Penati,Jessica Schuster,Jonathon Young</value></data>
+  <data name="IDS_3276" xml:space="preserve"><value>Jim Abraham,Misael Armendariz,Gene Blakefield,Marcia Broderick,Tysen Henderson,Matt Holmberg,Jordan Kotzebue,Josh Langley,Dereck McCaughan,Bill Olmstead,Rick Schmitz,Rich Werner</value></data>
+  <data name="IDS_3277" xml:space="preserve"><value>Alexander Brandon (Funky Rustic),Peter Hajba,Gregory Hinde,Jason Kapalka,Zachary Throne</value></data>
+  <data name="IDS_3274" xml:space="preserve"><value>Brian Fiete,Jason Kapalka,Josh Langley</value></data>
+  <data name="IDS_3275" xml:space="preserve"><value>Jeremy Bilas,Brian Fiete,Chris Hargrove,Josh Langley,Joe Mobley,Matt Scott,Jacob VanWingen</value></data>
+  <data name="IDS_3278" xml:space="preserve"><value>Stephen Notley</value></data>
+  <data name="IDS_3279" xml:space="preserve"><value>Sharon Bruhn,David Chan,Bob Church,David Cole,Bill Dennes,Jon Fleming,Michael Guillory,Abigail Houghton,Ed Miller,Mike Racioppi,DJ Stiner,Chad Zoellner</value></data>
+  <data name="IDS_3241" xml:space="preserve"><value>Choose from Library</value></data>
+  <data name="IDS_3240" xml:space="preserve"><value>SELECT PICTURE</value></data>
+  <data name="IDS_3243" xml:space="preserve"><value>CREDITS</value></data>
+  <data name="IDS_3242" xml:space="preserve"><value>Take picture using camera</value></data>
+  <data name="IDS_3245" xml:space="preserve"><value>iOS Team</value></data>
+  <data name="IDS_3244" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3247" xml:space="preserve"><value>Game Design</value></data>
+  <data name="IDS_3246" xml:space="preserve"><value>Production</value></data>
+  <data name="IDS_3249" xml:space="preserve"><value>Art</value></data>
+  <data name="IDS_3248" xml:space="preserve"><value>Programming</value></data>
+  <data name="IDS_3214" xml:space="preserve"><value>LEADERBOARDS</value></data>
+  <data name="IDS_3215" xml:space="preserve"><value>MORE GAMES</value></data>
+  <data name="IDS_3216" xml:space="preserve"><value>Oops! We were unable to detect an active Internet connection. Please check your network settings and try again later.</value></data>
+  <data name="IDS_3217" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3210" xml:space="preserve"><value>DIAMOND MINE</value></data>
+  <data name="IDS_3211" xml:space="preserve"><value>LIGHTNING</value></data>
+  <data name="IDS_3212" xml:space="preserve"><value>BUTTERFLIES</value></data>
+  <data name="IDS_3213" xml:space="preserve"><value>ACHIEVEMENTS</value></data>
+  <data name="IDS_3218" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_3219" xml:space="preserve"><value>OK</value></data>
+  <data name="IDS_3263" xml:space="preserve"><value>Release Management</value></data>
+  <data name="IDS_3262" xml:space="preserve"><value>Localization</value></data>
+  <data name="IDS_3261" xml:space="preserve"><value>Quality Assurance</value></data>
+  <data name="IDS_3260" xml:space="preserve"><value>Writing</value></data>
+  <data name="IDS_3267" xml:space="preserve"><value>Yang Han,Alanna Kelly,Stuart Johnson,Robert Lester,Paolo Maninetti,Paul O'Donnell,PJ O'Halloran,Christian Schinkoethe,Narinder Singh Basran</value></data>
+  <data name="IDS_3266" xml:space="preserve"><value>David Bishop,Antubel Moreda</value></data>
+  <data name="IDS_3265" xml:space="preserve"><value>Viktorya Hollings,Jim McDonagh,JP Vaughan</value></data>
+  <data name="IDS_3264" xml:space="preserve"><value>Special Thanks</value></data>
+  <data name="IDS_3269" xml:space="preserve"><value>David Bishop,Borja Guillan,Antubel Moreda</value></data>
+  <data name="IDS_3268" xml:space="preserve"><value>Lee Davies,Riana McKeith</value></data>
+  <data name="IDS_3236" xml:space="preserve"><value>RESTART GAME?</value></data>
+  <data name="IDS_3237" xml:space="preserve"><value>Abandon the current game and start again? Your current game will be lost.</value></data>
+  <data name="IDS_3234" xml:space="preserve"><value>SPEED</value></data>
+  <data name="IDS_3235" xml:space="preserve"><value>+{0}</value></data>
+  <data name="IDS_3232" xml:space="preserve"><value>Level {0}</value></data>
+  <data name="IDS_3230" xml:space="preserve"><value>Poker skull</value></data>
+  <data name="IDS_3231" xml:space="preserve"><value>Destroy the skull by filling the skull bar!</value></data>
+  <data name="IDS_3238" xml:space="preserve"><value>RESTART GAME</value></data>
+  <data name="IDS_3239" xml:space="preserve"><value>CANCEL</value></data>
+  <data name="IDS_3207" xml:space="preserve"><value>Ice storm description goes here</value></data>
+  <data name="IDS_3206" xml:space="preserve"><value>Play the poker mode</value></data>
+  <data name="IDS_3201" xml:space="preserve"><value>You must enter a valid name!</value></data>
+  <data name="IDS_3200" xml:space="preserve"><value>You must enter a valid name!</value></data>
+  <data name="IDS_3209" xml:space="preserve"><value>ZEN</value></data>
+  <data name="IDS_3208" xml:space="preserve"><value>CLASSIC</value></data>
+  <data name="IDS_3227" xml:space="preserve"><value>You have received a TIME GEM! Collect them to extend your game after the timer bar empties!</value></data>
+  <data name="IDS_3226" xml:space="preserve"><value>You have received a COIN! Collect them to buy Boosts to power you up!</value></data>
+  <data name="IDS_3225" xml:space="preserve"><value>You have received a MULTIPLIER GEM! Match it to multiply your score for the rest of the game.</value></data>
+  <data name="IDS_3224" xml:space="preserve"><value>You made a SUPERNOVA GEM by matching 6+ Gems in a row. Match it to release the force of a million suns. </value></data>
+  <data name="IDS_3223" xml:space="preserve"><value>You made a HYPERCUBE by matching 5 Gems in a row. Swap it to trigger!</value></data>
+  <data name="IDS_3222" xml:space="preserve"><value>You made a STAR GEM by creating two intersecting matches!</value></data>
+  <data name="IDS_3221" xml:space="preserve"><value>You made a FLAME GEM by matching 4 Gems in a row. Match it for an explosion!</value></data>
+  <data name="IDS_3220" xml:space="preserve"><value>HINT</value></data>
+  <data name="IDS_3229" xml:space="preserve"><value>Dark rocks can't be destroyed by normal matching. Use special Gems to destroy them!</value></data>
+  <data name="IDS_3228" xml:space="preserve"><value>Making a VERTICAL MATCH will destroy an ice column. Destroy more ice columns to increase your multiplier bonus!</value></data>
+  <data name="IDS_3298" xml:space="preserve"><value>Best Move:</value></data>
+  <data name="IDS_3299" xml:space="preserve"><value>Longest Cascade:</value></data>
+  <data name="IDS_3294" xml:space="preserve"><value>Swipe for stats</value></data>
+  <data name="IDS_3295" xml:space="preserve"><value>Swipe for top scores</value></data>
+  <data name="IDS_3296" xml:space="preserve"><value>STATS</value></data>
+  <data name="IDS_3297" xml:space="preserve"><value>Level Achieved:</value></data>
+  <data name="IDS_3290" xml:space="preserve"><value>PLAY</value></data>
+  <data name="IDS_3291" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3292" xml:space="preserve"><value>PLAY AGAIN</value></data>
+  <data name="IDS_3293" xml:space="preserve"><value>MAIN MENU</value></data>
+  <data name="IDS_3289" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3288" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3285" xml:space="preserve"><value>EDIT NAME</value></data>
+  <data name="IDS_3284" xml:space="preserve"><value>Choose a profile picture:</value></data>
+  <data name="IDS_3287" xml:space="preserve"><value>EDIT PROFILE</value></data>
+  <data name="IDS_3286" xml:space="preserve"><value>CONTINUE</value></data>
+  <data name="IDS_3281" xml:space="preserve"><value>Irene Cheung,Daniel Landeck,Eric Olson,Nick Tomilson</value></data>
+  <data name="IDS_3280" xml:space="preserve"><value>Karl Byrne,Jean De Merey,Anthony Mackey,John Paul Newman,Lorenzo Penati,Antonio Pérez,Jessica Schuster,Jonathon Young</value></data>
+  <data name="IDS_3283" xml:space="preserve"><value>Thank you for playing!</value></data>
+  <data name="IDS_3282" xml:space="preserve"><value>Ed Allard,Yvette Camacho,Garth Chouteau,Leigh Daughtridge,Glenn Drover,Cristina Estrada-Eligio,Liz Harris,Amy Hevron,Curtis Kuhn,Nicole LeMaster,Kong Lu,Cathy Orr,Kelley Poston,Ron Powers,David Roberts,Ben Rotholtz,John Vechey,Eve Warmflash,Paula Wong,PopCap Beta Testers</value></data>
+  <data name="IDS_3075" xml:space="preserve"><value>For Support visit us at:</value></data>
+  <data name="IDS_3076" xml:space="preserve"><value>help@eamobile.com</value></data>
+  <data name="IDS_3077" xml:space="preserve"><value>Version:</value></data>
+  <data name="IDS_3078" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3079" xml:space="preserve"><value>^FF6600^Bronze^FFFFFF^</value></data>
+  <data name="IDS_3069" xml:space="preserve"><value>CONTINUE</value></data>
+  <data name="IDS_3098" xml:space="preserve"><value>Clear 1,000 Flame Gems</value></data>
+  <data name="IDS_3099" xml:space="preserve"><value>Cleared 1,000 Flame Gems</value></data>
+  <data name="IDS_3096" xml:space="preserve"><value>Cleared 350 Flame Gems</value></data>
+  <data name="IDS_3097" xml:space="preserve"><value>Inferno (Gold)</value></data>
+  <data name="IDS_3094" xml:space="preserve"><value>Inferno (Silver)</value></data>
+  <data name="IDS_3095" xml:space="preserve"><value>Clear 350 Flame Gems</value></data>
+  <data name="IDS_3092" xml:space="preserve"><value>Clear 50 Flame Gems</value></data>
+  <data name="IDS_3093" xml:space="preserve"><value>Cleared 50 Flame Gems</value></data>
+  <data name="IDS_3090" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3091" xml:space="preserve"><value>Inferno (Bronze)</value></data>
+  <data name="IDS_3089" xml:space="preserve"><value>BACK</value></data>
+  <data name="IDS_3088" xml:space="preserve"><value>CONTINUE</value></data>
+  <data name="IDS_3084" xml:space="preserve"><value>Elite Achievement</value></data>
+  <data name="IDS_3083" xml:space="preserve"><value>ACHIEVEMENTS</value></data>
+  <data name="IDS_3082" xml:space="preserve"><value>^66BBFF^Platinum^FFFFFF^</value></data>
+  <data name="IDS_3081" xml:space="preserve"><value>^FFEE00^Gold^FFFFFF^</value></data>
+  <data name="IDS_3080" xml:space="preserve"><value>^EEEEEE^Silver^FFFFFF^</value></data>
+  <data name="IDS_3802" xml:space="preserve"><value>UPDATE</value></data>
+  <data name="IDS_3801" xml:space="preserve"><value>The Leaderboards are only available in the full game.</value></data>
+  <data name="IDS_3800" xml:space="preserve"><value>In the trial version you can only reach maximum of the 4th Level. Unlock the full version to enjoy the full experience.</value></data>
+  <data name="IDS_8888" xml:space="preserve"><value>http://mg.eamobile.com/?rId=1560</value></data>
+  <data name="LANG" xml:space="preserve"><value>EN-US</value></data>
+  </root>
