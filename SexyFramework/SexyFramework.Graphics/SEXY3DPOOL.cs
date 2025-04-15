@@ -1,0 +1,11 @@
+namespace SexyFramework.Graphics
+{
+	public enum SEXY3DPOOL
+	{
+		SEXY3DPOOL_DEFAULT = 0,
+		SEXY3DPOOL_MANAGED = 1,
+		SEXY3DPOOL_SYSTEMMEM = 2,
+		SEXY3DPOOL_SCRATCH = 3,
+		SEXY3DPOOL_FORCE_DWORD = int.MaxValue
+	}
+}

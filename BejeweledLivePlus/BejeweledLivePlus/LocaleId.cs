@@ -1,0 +1,12 @@
+namespace BejeweledLivePlus
+{
+	public enum LocaleId : uint
+	{
+		LOCALE_NONE = 0u,
+		LOCALE_DEDE = 1145390149u,
+		LOCALE_ENUS = 1162761555u,
+		LOCALE_ESES = 1163085139u,
+		LOCALE_FRFR = 1179797074u,
+		LOCALE_ITIT = 1230260564u
+	}
+}
